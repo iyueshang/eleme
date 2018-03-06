@@ -1,0 +1,1443 @@
+[2018-03-06 05:01:11] NULL.DEBUG: Request received: {"method":"POST","uri":"http://8eb704f5.ap.ngrok.io/wechat?nonce=531943362&openid=oF_4av4GAHDopFRLZ9aukJI9b9-8&signature=d45eb64ba8470f72aa05a7a0f4fcf31d93a6943f&timestamp=1520312472","content-type":"xml","content":"<xml><ToUserName><![CDATA[gh_dbe83f07075e]]></ToUserName>
+<FromUserName><![CDATA[oF_4av4GAHDopFRLZ9aukJI9b9-8]]></FromUserName>
+<CreateTime>1520312472</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[_§:з)))」∠)_]]></Content>
+<MsgId>6529692347368735675</MsgId>
+</xml>"} 
+[2018-03-06 05:01:14] NULL.DEBUG: Request received: {"method":"POST","uri":"http://8eb704f5.ap.ngrok.io/wechat?nonce=531943362&openid=oF_4av4GAHDopFRLZ9aukJI9b9-8&signature=d45eb64ba8470f72aa05a7a0f4fcf31d93a6943f&timestamp=1520312472","content-type":"xml","content":"<xml><ToUserName><![CDATA[gh_dbe83f07075e]]></ToUserName>
+<FromUserName><![CDATA[oF_4av4GAHDopFRLZ9aukJI9b9-8]]></FromUserName>
+<CreateTime>1520312472</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[_§:з)))」∠)_]]></Content>
+<MsgId>6529692347368735675</MsgId>
+</xml>"} 
+[2018-03-06 05:01:16] NULL.DEBUG: Request received: {"method":"POST","uri":"http://8eb704f5.ap.ngrok.io/wechat?nonce=531943362&openid=oF_4av4GAHDopFRLZ9aukJI9b9-8&signature=d45eb64ba8470f72aa05a7a0f4fcf31d93a6943f&timestamp=1520312472","content-type":"xml","content":"<xml><ToUserName><![CDATA[gh_dbe83f07075e]]></ToUserName>
+<FromUserName><![CDATA[oF_4av4GAHDopFRLZ9aukJI9b9-8]]></FromUserName>
+<CreateTime>1520312472</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[_§:з)))」∠)_]]></Content>
+<MsgId>6529692347368735675</MsgId>
+</xml>"} 
+[2018-03-06 05:02:48] NULL.DEBUG: Request received: {"method":"POST","uri":"http://8eb704f5.ap.ngrok.io/wechat?nonce=812689710&openid=oF_4av4GAHDopFRLZ9aukJI9b9-8&signature=e809e6c8d67a0c8323c433fd6f2c07c6d8ed2745&timestamp=1520312568","content-type":"xml","content":"<xml><ToUserName><![CDATA[gh_dbe83f07075e]]></ToUserName>
+<FromUserName><![CDATA[oF_4av4GAHDopFRLZ9aukJI9b9-8]]></FromUserName>
+<CreateTime>1520312568</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[安好]]></Content>
+<MsgId>6529692759685596135</MsgId>
+</xml>"} 
+[2018-03-06 05:02:50] NULL.DEBUG: Request received: {"method":"POST","uri":"http://8eb704f5.ap.ngrok.io/wechat?nonce=812689710&openid=oF_4av4GAHDopFRLZ9aukJI9b9-8&signature=e809e6c8d67a0c8323c433fd6f2c07c6d8ed2745&timestamp=1520312568","content-type":"xml","content":"<xml><ToUserName><![CDATA[gh_dbe83f07075e]]></ToUserName>
+<FromUserName><![CDATA[oF_4av4GAHDopFRLZ9aukJI9b9-8]]></FromUserName>
+<CreateTime>1520312568</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[安好]]></Content>
+<MsgId>6529692759685596135</MsgId>
+</xml>"} 
+[2018-03-06 05:02:51] NULL.DEBUG: Request received: {"method":"POST","uri":"http://8eb704f5.ap.ngrok.io/wechat?nonce=812689710&openid=oF_4av4GAHDopFRLZ9aukJI9b9-8&signature=e809e6c8d67a0c8323c433fd6f2c07c6d8ed2745&timestamp=1520312568","content-type":"xml","content":"<xml><ToUserName><![CDATA[gh_dbe83f07075e]]></ToUserName>
+<FromUserName><![CDATA[oF_4av4GAHDopFRLZ9aukJI9b9-8]]></FromUserName>
+<CreateTime>1520312568</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[安好]]></Content>
+<MsgId>6529692759685596135</MsgId>
+</xml>"} 
+[2018-03-06 05:04:00] NULL.DEBUG: Request received: {"method":"POST","uri":"http://8eb704f5.ap.ngrok.io/wechat?nonce=876738620&openid=oF_4av4GAHDopFRLZ9aukJI9b9-8&signature=39aa8fc4b42eef030e28cb6d238a6aad3ff81a08&timestamp=1520312641","content-type":"xml","content":"<xml><ToUserName><![CDATA[gh_dbe83f07075e]]></ToUserName>
+<FromUserName><![CDATA[oF_4av4GAHDopFRLZ9aukJI9b9-8]]></FromUserName>
+<CreateTime>1520312641</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[你好]]></Content>
+<MsgId>6529693073218208776</MsgId>
+</xml>"} 
+[2018-03-06 05:04:02] NULL.DEBUG: Request received: {"method":"POST","uri":"http://8eb704f5.ap.ngrok.io/wechat?nonce=876738620&openid=oF_4av4GAHDopFRLZ9aukJI9b9-8&signature=39aa8fc4b42eef030e28cb6d238a6aad3ff81a08&timestamp=1520312641","content-type":"xml","content":"<xml><ToUserName><![CDATA[gh_dbe83f07075e]]></ToUserName>
+<FromUserName><![CDATA[oF_4av4GAHDopFRLZ9aukJI9b9-8]]></FromUserName>
+<CreateTime>1520312641</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[你好]]></Content>
+<MsgId>6529693073218208776</MsgId>
+</xml>"} 
+[2018-03-06 05:04:04] NULL.DEBUG: Request received: {"method":"POST","uri":"http://8eb704f5.ap.ngrok.io/wechat?nonce=876738620&openid=oF_4av4GAHDopFRLZ9aukJI9b9-8&signature=39aa8fc4b42eef030e28cb6d238a6aad3ff81a08&timestamp=1520312641","content-type":"xml","content":"<xml><ToUserName><![CDATA[gh_dbe83f07075e]]></ToUserName>
+<FromUserName><![CDATA[oF_4av4GAHDopFRLZ9aukJI9b9-8]]></FromUserName>
+<CreateTime>1520312641</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[你好]]></Content>
+<MsgId>6529693073218208776</MsgId>
+</xml>"} 
+[2018-03-06 05:04:46] NULL.DEBUG: Request received: {"method":"POST","uri":"http://8eb704f5.ap.ngrok.io/wechat?nonce=1101691851&openid=oF_4av4GAHDopFRLZ9aukJI9b9-8&signature=f5105b14bed6511ef7ecdc67ea63c374814308f6&timestamp=1520312687","content-type":"xml","content":"<xml><ToUserName><![CDATA[gh_dbe83f07075e]]></ToUserName>
+<FromUserName><![CDATA[oF_4av4GAHDopFRLZ9aukJI9b9-8]]></FromUserName>
+<CreateTime>1520312687</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[3333]]></Content>
+<MsgId>6529693270786704411</MsgId>
+</xml>"} 
+[2018-03-06 05:04:46] NULL.DEBUG: Server response created: {"content":"success"} 
+[2018-03-06 05:04:59] NULL.DEBUG: Request received: {"method":"POST","uri":"http://8eb704f5.ap.ngrok.io/wechat?nonce=1080431874&openid=oF_4av4GAHDopFRLZ9aukJI9b9-8&signature=1a7d755bd45350610ea96f17430d86df977e5aa6&timestamp=1520312700","content-type":"xml","content":"<xml><ToUserName><![CDATA[gh_dbe83f07075e]]></ToUserName>
+<FromUserName><![CDATA[oF_4av4GAHDopFRLZ9aukJI9b9-8]]></FromUserName>
+<CreateTime>1520312700</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[【收到不支持的消息类型，暂无法显示】]]></Content>
+<MsgId>6529693326621279266</MsgId>
+</xml>"} 
+[2018-03-06 05:04:59] NULL.DEBUG: Server response created: {"content":"success"} 
+[2018-03-06 05:05:00] NULL.DEBUG: Request received: {"method":"POST","uri":"http://8eb704f5.ap.ngrok.io/wechat?nonce=1498851429&openid=oF_4av4GAHDopFRLZ9aukJI9b9-8&signature=f6de83d618a5c2b02f266ffca59bded95ca88182&timestamp=1520312701","content-type":"xml","content":"<xml><ToUserName><![CDATA[gh_dbe83f07075e]]></ToUserName>
+<FromUserName><![CDATA[oF_4av4GAHDopFRLZ9aukJI9b9-8]]></FromUserName>
+<CreateTime>1520312701</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[【收到不支持的消息类型，暂无法显示】]]></Content>
+<MsgId>6529693330916246563</MsgId>
+</xml>"} 
+[2018-03-06 05:05:00] NULL.DEBUG: Server response created: {"content":"success"} 
+[2018-03-06 05:06:15] NULL.DEBUG: Request received: {"method":"POST","uri":"http://8eb704f5.ap.ngrok.io/wechat?nonce=393262829&openid=oF_4av4GAHDopFRLZ9aukJI9b9-8&signature=84af7f9b58f385e1834a38a450333305482e81a5&timestamp=1520312776","content-type":"xml","content":"<xml><ToUserName><![CDATA[gh_dbe83f07075e]]></ToUserName>
+<FromUserName><![CDATA[oF_4av4GAHDopFRLZ9aukJI9b9-8]]></FromUserName>
+<CreateTime>1520312776</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[擦擦]]></Content>
+<MsgId>6529693653038793779</MsgId>
+</xml>"} 
+[2018-03-06 05:06:15] NULL.DEBUG: Server response created: {"content":"success"} 
+[2018-03-06 05:07:03] NULL.DEBUG: Request received: {"method":"POST","uri":"http://8eb704f5.ap.ngrok.io/wechat?nonce=1058001811&openid=oF_4av4GAHDopFRLZ9aukJI9b9-8&signature=f25610679042c3caf3a32d48976299690134fe7d&timestamp=1520312824","content-type":"xml","content":"<xml><ToUserName><![CDATA[gh_dbe83f07075e]]></ToUserName>
+<FromUserName><![CDATA[oF_4av4GAHDopFRLZ9aukJI9b9-8]]></FromUserName>
+<CreateTime>1520312824</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[你好]]></Content>
+<MsgId>6529693859197224005</MsgId>
+</xml>"} 
+[2018-03-06 05:07:03] NULL.DEBUG: Server response created: {"content":"<xml><MsgType><![CDATA[text]]></MsgType><Content><![CDATA[您好！欢迎使用 EasyWeChat!]]></Content><ToUserName><![CDATA[oF_4av4GAHDopFRLZ9aukJI9b9-8]]></ToUserName><FromUserName><![CDATA[gh_dbe83f07075e]]></FromUserName><CreateTime>1520312823</CreateTime></xml>"} 
+[2018-03-06 05:07:09] NULL.DEBUG: Request received: {"method":"POST","uri":"http://8eb704f5.ap.ngrok.io/wechat?nonce=1238829491&openid=oF_4av4GAHDopFRLZ9aukJI9b9-8&signature=d56429b27912d11b3c69f73b2fd61f7c4658b83e&timestamp=1520312830","content-type":"xml","content":"<xml><ToUserName><![CDATA[gh_dbe83f07075e]]></ToUserName>
+<FromUserName><![CDATA[oF_4av4GAHDopFRLZ9aukJI9b9-8]]></FromUserName>
+<CreateTime>1520312830</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[【收到不支持的消息类型，暂无法显示】]]></Content>
+<MsgId>6529693884967027788</MsgId>
+</xml>"} 
+[2018-03-06 05:07:09] NULL.DEBUG: Server response created: {"content":"<xml><MsgType><![CDATA[text]]></MsgType><Content><![CDATA[您好！欢迎使用 EasyWeChat!]]></Content><ToUserName><![CDATA[oF_4av4GAHDopFRLZ9aukJI9b9-8]]></ToUserName><FromUserName><![CDATA[gh_dbe83f07075e]]></FromUserName><CreateTime>1520312829</CreateTime></xml>"} 
+[2018-03-06 05:07:21] NULL.DEBUG: Request received: {"method":"POST","uri":"http://8eb704f5.ap.ngrok.io/wechat?nonce=1551778649&openid=oF_4av4GAHDopFRLZ9aukJI9b9-8&signature=4b05a7fc0f4542d0bbacd4f874f0bb223b6b4715&timestamp=1520312842","content-type":"xml","content":"<xml><ToUserName><![CDATA[gh_dbe83f07075e]]></ToUserName>
+<FromUserName><![CDATA[oF_4av4GAHDopFRLZ9aukJI9b9-8]]></FromUserName>
+<CreateTime>1520312842</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[【收到不支持的消息类型，暂无法显示】]]></Content>
+<MsgId>6529693936506635344</MsgId>
+</xml>"} 
+[2018-03-06 05:07:23] NULL.DEBUG: Request received: {"method":"POST","uri":"http://8eb704f5.ap.ngrok.io/wechat?nonce=1551778649&openid=oF_4av4GAHDopFRLZ9aukJI9b9-8&signature=4b05a7fc0f4542d0bbacd4f874f0bb223b6b4715&timestamp=1520312842","content-type":"xml","content":"<xml><ToUserName><![CDATA[gh_dbe83f07075e]]></ToUserName>
+<FromUserName><![CDATA[oF_4av4GAHDopFRLZ9aukJI9b9-8]]></FromUserName>
+<CreateTime>1520312842</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[【收到不支持的消息类型，暂无法显示】]]></Content>
+<MsgId>6529693936506635344</MsgId>
+</xml>"} 
+[2018-03-06 05:07:24] NULL.DEBUG: Request received: {"method":"POST","uri":"http://8eb704f5.ap.ngrok.io/wechat?nonce=1551778649&openid=oF_4av4GAHDopFRLZ9aukJI9b9-8&signature=4b05a7fc0f4542d0bbacd4f874f0bb223b6b4715&timestamp=1520312842","content-type":"xml","content":"<xml><ToUserName><![CDATA[gh_dbe83f07075e]]></ToUserName>
+<FromUserName><![CDATA[oF_4av4GAHDopFRLZ9aukJI9b9-8]]></FromUserName>
+<CreateTime>1520312842</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[【收到不支持的消息类型，暂无法显示】]]></Content>
+<MsgId>6529693936506635344</MsgId>
+</xml>"} 
+[2018-03-06 05:07:42] NULL.DEBUG: Request received: {"method":"POST","uri":"http://8eb704f5.ap.ngrok.io/wechat?nonce=1418485606&openid=oF_4av4GAHDopFRLZ9aukJI9b9-8&signature=fbf0601ed6b15bbb737c6252658195eee67a8d4d&timestamp=1520312863","content-type":"xml","content":"<xml><ToUserName><![CDATA[gh_dbe83f07075e]]></ToUserName>
+<FromUserName><![CDATA[oF_4av4GAHDopFRLZ9aukJI9b9-8]]></FromUserName>
+<CreateTime>1520312863</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[你好]]></Content>
+<MsgId>6529694026700948569</MsgId>
+</xml>"} 
+[2018-03-06 05:07:44] NULL.DEBUG: Request received: {"method":"POST","uri":"http://8eb704f5.ap.ngrok.io/wechat?nonce=1418485606&openid=oF_4av4GAHDopFRLZ9aukJI9b9-8&signature=fbf0601ed6b15bbb737c6252658195eee67a8d4d&timestamp=1520312863","content-type":"xml","content":"<xml><ToUserName><![CDATA[gh_dbe83f07075e]]></ToUserName>
+<FromUserName><![CDATA[oF_4av4GAHDopFRLZ9aukJI9b9-8]]></FromUserName>
+<CreateTime>1520312863</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[你好]]></Content>
+<MsgId>6529694026700948569</MsgId>
+</xml>"} 
+[2018-03-06 05:07:46] NULL.DEBUG: Request received: {"method":"POST","uri":"http://8eb704f5.ap.ngrok.io/wechat?nonce=1418485606&openid=oF_4av4GAHDopFRLZ9aukJI9b9-8&signature=fbf0601ed6b15bbb737c6252658195eee67a8d4d&timestamp=1520312863","content-type":"xml","content":"<xml><ToUserName><![CDATA[gh_dbe83f07075e]]></ToUserName>
+<FromUserName><![CDATA[oF_4av4GAHDopFRLZ9aukJI9b9-8]]></FromUserName>
+<CreateTime>1520312863</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[你好]]></Content>
+<MsgId>6529694026700948569</MsgId>
+</xml>"} 
+[2018-03-06 05:09:53] NULL.DEBUG: Request received: {"method":"POST","uri":"http://8eb704f5.ap.ngrok.io/wechat?nonce=2120780977&openid=oF_4av4GAHDopFRLZ9aukJI9b9-8&signature=9c26cdb43c55dec736bb76509b531b90b39e6896&timestamp=1520312993","content-type":"xml","content":"<xml><ToUserName><![CDATA[gh_dbe83f07075e]]></ToUserName>
+<FromUserName><![CDATA[oF_4av4GAHDopFRLZ9aukJI9b9-8]]></FromUserName>
+<CreateTime>1520312993</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[你好]]></Content>
+<MsgId>6529694585046697099</MsgId>
+</xml>"} 
+[2018-03-06 05:09:53] NULL.ERROR: 0: Array to string conversion {"code":0,"message":"Array to string conversion","file":"E:\\homestead\\code\\eleme\\app\\Http\\Controllers\\WechatController.php","line":44} 
+[2018-03-06 05:09:53] NULL.DEBUG: Server response created: {"content":"success"} 
+[2018-03-06 05:10:15] NULL.DEBUG: Request received: {"method":"POST","uri":"http://8eb704f5.ap.ngrok.io/wechat?nonce=14152577&openid=oF_4av4GAHDopFRLZ9aukJI9b9-8&signature=c03e62e0c866fd6e9beef3d64391d7b9cbac64a1&timestamp=1520313016","content-type":"xml","content":"<xml><ToUserName><![CDATA[gh_dbe83f07075e]]></ToUserName>
+<FromUserName><![CDATA[oF_4av4GAHDopFRLZ9aukJI9b9-8]]></FromUserName>
+<CreateTime>1520313015</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[你好]]></Content>
+<MsgId>6529694679535977621</MsgId>
+</xml>"} 
+[2018-03-06 05:10:15] NULL.DEBUG: Server response created: {"content":"<xml><MsgType><![CDATA[text]]></MsgType><Content><![CDATA[yueshang]]></Content><ToUserName><![CDATA[oF_4av4GAHDopFRLZ9aukJI9b9-8]]></ToUserName><FromUserName><![CDATA[gh_dbe83f07075e]]></FromUserName><CreateTime>1520313015</CreateTime></xml>"} 
+[2018-03-06 05:12:36] NULL.DEBUG: Request received: {"method":"POST","uri":"http://8eb704f5.ap.ngrok.io/wechat?nonce=485236524&openid=oF_4av4GAHDopFRLZ9aukJI9b9-8&signature=5a1b4a7a010af097148e14427bd166b3a9d917ae&timestamp=1520313157","content-type":"xml","content":"<xml><ToUserName><![CDATA[gh_dbe83f07075e]]></ToUserName>
+<FromUserName><![CDATA[oF_4av4GAHDopFRLZ9aukJI9b9-8]]></FromUserName>
+<CreateTime>1520313157</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[test]]></Content>
+<MsgId>6529695289421333724</MsgId>
+</xml>"} 
+[2018-03-06 05:12:36] NULL.DEBUG: Server response created: {"content":"<xml><MsgType><![CDATA[text]]></MsgType><Content><![CDATA[收到文字消息]]></Content><ToUserName><![CDATA[oF_4av4GAHDopFRLZ9aukJI9b9-8]]></ToUserName><FromUserName><![CDATA[gh_dbe83f07075e]]></FromUserName><CreateTime>1520313156</CreateTime></xml>"} 
+[2018-03-06 05:12:53] NULL.DEBUG: Request received: {"method":"POST","uri":"http://8eb704f5.ap.ngrok.io/wechat?nonce=1386842508&openid=oF_4av4GAHDopFRLZ9aukJI9b9-8&signature=cd0c060121f50fda41e1b4463ef0ea66ee7627ee&timestamp=1520313174","content-type":"xml","content":"<xml><ToUserName><![CDATA[gh_dbe83f07075e]]></ToUserName>
+<FromUserName><![CDATA[oF_4av4GAHDopFRLZ9aukJI9b9-8]]></FromUserName>
+<CreateTime>1520313174</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[[Facepalm][Facepalm]]]></Content>
+<MsgId>6529695362435777764</MsgId>
+</xml>"} 
+[2018-03-06 05:12:53] NULL.DEBUG: Server response created: {"content":"<xml><MsgType><![CDATA[text]]></MsgType><Content><![CDATA[收到文字消息]]></Content><ToUserName><![CDATA[oF_4av4GAHDopFRLZ9aukJI9b9-8]]></ToUserName><FromUserName><![CDATA[gh_dbe83f07075e]]></FromUserName><CreateTime>1520313173</CreateTime></xml>"} 
+[2018-03-06 05:13:06] NULL.DEBUG: Request received: {"method":"POST","uri":"http://8eb704f5.ap.ngrok.io/wechat?nonce=131890280&openid=oF_4av4GAHDopFRLZ9aukJI9b9-8&signature=c1247b5ddccf22e9e3faa7b37264db460d554714&timestamp=1520313187","content-type":"xml","content":"<xml><ToUserName><![CDATA[gh_dbe83f07075e]]></ToUserName>
+<FromUserName><![CDATA[oF_4av4GAHDopFRLZ9aukJI9b9-8]]></FromUserName>
+<CreateTime>1520313185</CreateTime>
+<MsgType><![CDATA[image]]></MsgType>
+<PicUrl><![CDATA[http://mmbiz.qpic.cn/mmbiz_jpg/zRDiaaVZoPteItWk676JzXhrrTqexjIKdyFlALWmXddM7ldqk0qaYwnfvaz5oUSiaot7HpQrzK9T3ibJlWQ63Mib7g/0]]></PicUrl>
+<MsgId>6529695409680418027</MsgId>
+<MediaId><![CDATA[FaYiaTor9S73xfuuxntd9YkcfYO2NaJ3KP3VJLXHRtAmMBPmUxRVFTs0EJHdyOo7]]></MediaId>
+</xml>"} 
+[2018-03-06 05:13:06] NULL.DEBUG: Server response created: {"content":"<xml><MsgType><![CDATA[text]]></MsgType><Content><![CDATA[不符合要求]]></Content><ToUserName><![CDATA[oF_4av4GAHDopFRLZ9aukJI9b9-8]]></ToUserName><FromUserName><![CDATA[gh_dbe83f07075e]]></FromUserName><CreateTime>1520313186</CreateTime></xml>"} 
+[2018-03-06 05:26:25] NULL.DEBUG: Request received: {"method":"POST","uri":"http://8eb704f5.ap.ngrok.io/wechat?nonce=1110091023&openid=oF_4av4GAHDopFRLZ9aukJI9b9-8&signature=c3dc4cc820cc0872f4c04c6dcb383b833cb9b616&timestamp=1520313986","content-type":"xml","content":"<xml><ToUserName><![CDATA[gh_dbe83f07075e]]></ToUserName>
+<FromUserName><![CDATA[oF_4av4GAHDopFRLZ9aukJI9b9-8]]></FromUserName>
+<CreateTime>1520313986</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[111]]></Content>
+<MsgId>6529698849949222378</MsgId>
+</xml>"} 
+[2018-03-06 05:26:25] NULL.ERROR: 0: Undefined index: content {"code":0,"message":"Undefined index: content","file":"E:\\homestead\\code\\eleme\\app\\Http\\Controllers\\WechatController.php","line":109} 
+[2018-03-06 05:26:25] NULL.DEBUG: Server response created: {"content":"success"} 
+[2018-03-06 05:26:44] NULL.DEBUG: Request received: {"method":"POST","uri":"http://8eb704f5.ap.ngrok.io/wechat?nonce=1248674553&openid=oF_4av4GAHDopFRLZ9aukJI9b9-8&signature=ccdb0a568d29c48773f9b7a54a9972137d9e6ce6&timestamp=1520314005","content-type":"xml","content":"<xml><ToUserName><![CDATA[gh_dbe83f07075e]]></ToUserName>
+<FromUserName><![CDATA[oF_4av4GAHDopFRLZ9aukJI9b9-8]]></FromUserName>
+<CreateTime>1520314005</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[2131231232131231]]></Content>
+<MsgId>6529698931553601008</MsgId>
+</xml>"} 
+[2018-03-06 05:26:44] NULL.ERROR: 0: Undefined index: content {"code":0,"message":"Undefined index: content","file":"E:\\homestead\\code\\eleme\\app\\Http\\Controllers\\WechatController.php","line":109} 
+[2018-03-06 05:26:44] NULL.DEBUG: Server response created: {"content":"success"} 
+[2018-03-06 05:26:53] NULL.DEBUG: Request received: {"method":"POST","uri":"http://8eb704f5.ap.ngrok.io/wechat?nonce=475221126&openid=oF_4av4GAHDopFRLZ9aukJI9b9-8&signature=032a0d92ffc01cc13d6cb9991ca0b526e53a09b4&timestamp=1520314015","content-type":"xml","content":"<xml><ToUserName><![CDATA[gh_dbe83f07075e]]></ToUserName>
+<FromUserName><![CDATA[oF_4av4GAHDopFRLZ9aukJI9b9-8]]></FromUserName>
+<CreateTime>1520314014</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[18553359039]]></Content>
+<MsgId>6529698970208306676</MsgId>
+</xml>"} 
+[2018-03-06 05:26:53] NULL.ERROR: 0: Undefined index: content {"code":0,"message":"Undefined index: content","file":"E:\\homestead\\code\\eleme\\app\\Http\\Controllers\\WechatController.php","line":109} 
+[2018-03-06 05:26:53] NULL.DEBUG: Server response created: {"content":"success"} 
+[2018-03-06 05:28:16] NULL.DEBUG: Request received: {"method":"POST","uri":"http://8eb704f5.ap.ngrok.io/wechat?nonce=1677945723&openid=oF_4av4GAHDopFRLZ9aukJI9b9-8&signature=0749a8e71b90efffb191dac5722d302c7413e204&timestamp=1520314097","content-type":"xml","content":"<xml><ToUserName><![CDATA[gh_dbe83f07075e]]></ToUserName>
+<FromUserName><![CDATA[oF_4av4GAHDopFRLZ9aukJI9b9-8]]></FromUserName>
+<CreateTime>1520314097</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[111]]></Content>
+<MsgId>6529699326690592276</MsgId>
+</xml>"} 
+[2018-03-06 05:28:16] NULL.ERROR: 0: Undefined index: content {"code":0,"message":"Undefined index: content","file":"E:\\homestead\\code\\eleme\\app\\Http\\Controllers\\WechatController.php","line":109} 
+[2018-03-06 05:28:16] NULL.DEBUG: Server response created: {"content":"success"} 
+[2018-03-06 05:28:28] NULL.DEBUG: Request received: {"method":"POST","uri":"http://8eb704f5.ap.ngrok.io/wechat?nonce=1413325344&openid=oF_4av4GAHDopFRLZ9aukJI9b9-8&signature=f7089afc320208f8c25523ecd68f1c40353cb6ea&timestamp=1520314109","content-type":"xml","content":"<xml><ToUserName><![CDATA[gh_dbe83f07075e]]></ToUserName>
+<FromUserName><![CDATA[oF_4av4GAHDopFRLZ9aukJI9b9-8]]></FromUserName>
+<CreateTime>1520314109</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[312]]></Content>
+<MsgId>6529699378230199830</MsgId>
+</xml>"} 
+[2018-03-06 05:28:28] NULL.DEBUG: Server response created: {"content":"<xml><MsgType><![CDATA[text]]></MsgType><Content>1231232132</Content><ToUserName><![CDATA[oF_4av4GAHDopFRLZ9aukJI9b9-8]]></ToUserName><FromUserName><![CDATA[gh_dbe83f07075e]]></FromUserName><CreateTime>1520314108</CreateTime></xml>"} 
+[2018-03-06 05:28:55] NULL.DEBUG: Request received: {"method":"POST","uri":"http://8eb704f5.ap.ngrok.io/wechat?nonce=1687863301&openid=oF_4av4GAHDopFRLZ9aukJI9b9-8&signature=1f3c15a0ba5f370139345ea73799403eb85453f7&timestamp=1520314136","content-type":"xml","content":"<xml><ToUserName><![CDATA[gh_dbe83f07075e]]></ToUserName>
+<FromUserName><![CDATA[oF_4av4GAHDopFRLZ9aukJI9b9-8]]></FromUserName>
+<CreateTime>1520314136</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[1212312]]></Content>
+<MsgId>6529699494194316837</MsgId>
+</xml>"} 
+[2018-03-06 05:28:55] NULL.DEBUG: Server response created: {"content":"<xml><MsgType><![CDATA[text]]></MsgType><Content>1231231</Content><ToUserName><![CDATA[oF_4av4GAHDopFRLZ9aukJI9b9-8]]></ToUserName><FromUserName><![CDATA[gh_dbe83f07075e]]></FromUserName><CreateTime>1520314135</CreateTime></xml>"} 
+[2018-03-06 05:29:35] NULL.DEBUG: Request received: {"method":"POST","uri":"http://8eb704f5.ap.ngrok.io/wechat?nonce=1033050702&openid=oF_4av4GAHDopFRLZ9aukJI9b9-8&signature=afdddf52e4bd6a808247a269433bf070743235f0&timestamp=1520314176","content-type":"xml","content":"<xml><ToUserName><![CDATA[gh_dbe83f07075e]]></ToUserName>
+<FromUserName><![CDATA[oF_4av4GAHDopFRLZ9aukJI9b9-8]]></FromUserName>
+<CreateTime>1520314176</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[12312321]]></Content>
+<MsgId>6529699665993008695</MsgId>
+</xml>"} 
+[2018-03-06 05:29:35] NULL.ERROR: 0: Undefined index: content {"code":0,"message":"Undefined index: content","file":"E:\\homestead\\code\\eleme\\app\\Http\\Controllers\\WechatController.php","line":109} 
+[2018-03-06 05:29:35] NULL.DEBUG: Server response created: {"content":"success"} 
+[2018-03-06 05:30:02] NULL.DEBUG: Request received: {"method":"POST","uri":"http://8eb704f5.ap.ngrok.io/wechat?nonce=806551571&openid=oF_4av4GAHDopFRLZ9aukJI9b9-8&signature=2b624b5efc8487c3596b377f5f47449fbeabd2ac&timestamp=1520314202","content-type":"xml","content":"<xml><ToUserName><![CDATA[gh_dbe83f07075e]]></ToUserName>
+<FromUserName><![CDATA[oF_4av4GAHDopFRLZ9aukJI9b9-8]]></FromUserName>
+<CreateTime>1520314202</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[2312321]]></Content>
+<MsgId>6529699777662158406</MsgId>
+</xml>"} 
+[2018-03-06 05:30:02] NULL.ERROR: 0: Undefined index: content {"code":0,"message":"Undefined index: content","file":"E:\\homestead\\code\\eleme\\app\\Http\\Controllers\\WechatController.php","line":109} 
+[2018-03-06 05:30:02] NULL.DEBUG: Server response created: {"content":"success"} 
+[2018-03-06 05:30:35] NULL.DEBUG: Request received: {"method":"POST","uri":"http://8eb704f5.ap.ngrok.io/wechat?nonce=1026851912&openid=oF_4av4GAHDopFRLZ9aukJI9b9-8&signature=65569d9e55edef85e51489fbfaefb82fde9eae94&timestamp=1520314236","content-type":"xml","content":"<xml><ToUserName><![CDATA[gh_dbe83f07075e]]></ToUserName>
+<FromUserName><![CDATA[oF_4av4GAHDopFRLZ9aukJI9b9-8]]></FromUserName>
+<CreateTime>1520314236</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[12321]]></Content>
+<MsgId>6529699923691046486</MsgId>
+</xml>"} 
+[2018-03-06 05:30:35] NULL.ERROR: 0: Undefined index: content {"code":0,"message":"Undefined index: content","file":"E:\\homestead\\code\\eleme\\app\\Http\\Controllers\\WechatController.php","line":109} 
+[2018-03-06 05:30:35] NULL.DEBUG: Server response created: {"content":"success"} 
+[2018-03-06 05:31:44] NULL.DEBUG: Request received: {"method":"POST","uri":"http://8eb704f5.ap.ngrok.io/wechat?nonce=1446536435&openid=oF_4av4GAHDopFRLZ9aukJI9b9-8&signature=1cc8b67103e4cd8a528c0172770ebfc55e022ea1&timestamp=1520314305","content-type":"xml","content":"<xml><ToUserName><![CDATA[gh_dbe83f07075e]]></ToUserName>
+<FromUserName><![CDATA[oF_4av4GAHDopFRLZ9aukJI9b9-8]]></FromUserName>
+<CreateTime>1520314305</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[12312321]]></Content>
+<MsgId>6529700220043789953</MsgId>
+</xml>"} 
+[2018-03-06 05:31:44] NULL.DEBUG: Server response created: {"content":"<xml><MsgType><![CDATA[text]]></MsgType><Content>12312321</Content><ToUserName><![CDATA[oF_4av4GAHDopFRLZ9aukJI9b9-8]]></ToUserName><FromUserName><![CDATA[gh_dbe83f07075e]]></FromUserName><CreateTime>1520314304</CreateTime></xml>"} 
+[2018-03-06 05:32:44] NULL.DEBUG: Request received: {"method":"POST","uri":"http://8eb704f5.ap.ngrok.io/wechat?nonce=224445109&openid=oF_4av4GAHDopFRLZ9aukJI9b9-8&signature=9cc8ada5ee16b26400c2d15d8b00ab905cbae1df&timestamp=1520314365","content-type":"xml","content":"<xml><ToUserName><![CDATA[gh_dbe83f07075e]]></ToUserName>
+<FromUserName><![CDATA[oF_4av4GAHDopFRLZ9aukJI9b9-8]]></FromUserName>
+<CreateTime>1520314365</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[21312]]></Content>
+<MsgId>6529700477741827738</MsgId>
+</xml>"} 
+[2018-03-06 05:32:44] NULL.DEBUG: Server response created: {"content":"<xml><MsgType><![CDATA[text]]></MsgType><Content>2312312312</Content><ToUserName><![CDATA[oF_4av4GAHDopFRLZ9aukJI9b9-8]]></ToUserName><FromUserName><![CDATA[gh_dbe83f07075e]]></FromUserName><CreateTime>1520314364</CreateTime></xml>"} 
+[2018-03-06 05:33:00] NULL.DEBUG: Request received: {"method":"POST","uri":"http://8eb704f5.ap.ngrok.io/wechat?nonce=143422842&openid=oF_4av4GAHDopFRLZ9aukJI9b9-8&signature=cc467c25cbae2d37ff53a9bc2d994270d57e3fbe&timestamp=1520314381","content-type":"xml","content":"<xml><ToUserName><![CDATA[gh_dbe83f07075e]]></ToUserName>
+<FromUserName><![CDATA[oF_4av4GAHDopFRLZ9aukJI9b9-8]]></FromUserName>
+<CreateTime>1520314381</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[1111]]></Content>
+<MsgId>6529700546461304491</MsgId>
+</xml>"} 
+[2018-03-06 05:33:00] NULL.DEBUG: Server response created: {"content":"<xml><MsgType><![CDATA[text]]></MsgType><Content>1111</Content><ToUserName><![CDATA[oF_4av4GAHDopFRLZ9aukJI9b9-8]]></ToUserName><FromUserName><![CDATA[gh_dbe83f07075e]]></FromUserName><CreateTime>1520314380</CreateTime></xml>"} 
+[2018-03-06 05:42:33] NULL.DEBUG: Request received: {"method":"POST","uri":"http://8eb704f5.ap.ngrok.io/wechat?nonce=2043349997&openid=oF_4av4GAHDopFRLZ9aukJI9b9-8&signature=4c142774a9f5a1ed01890bc18186f43cc32ab904&timestamp=1520314954","content-type":"xml","content":"<xml><ToUserName><![CDATA[gh_dbe83f07075e]]></ToUserName>
+<FromUserName><![CDATA[oF_4av4GAHDopFRLZ9aukJI9b9-8]]></FromUserName>
+<CreateTime>1520314954</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[12312321]]></Content>
+<MsgId>6529703007477565315</MsgId>
+</xml>"} 
+[2018-03-06 05:42:33] NULL.DEBUG: Server response created: {"content":"<xml><MsgType><![CDATA[text]]></MsgType><Content>12312321</Content><ToUserName><![CDATA[oF_4av4GAHDopFRLZ9aukJI9b9-8]]></ToUserName><FromUserName><![CDATA[gh_dbe83f07075e]]></FromUserName><CreateTime>1520314953</CreateTime></xml>"} 
+[2018-03-06 05:42:46] NULL.DEBUG: Request received: {"method":"POST","uri":"http://8eb704f5.ap.ngrok.io/wechat?nonce=1338151765&openid=oF_4av4GAHDopFRLZ9aukJI9b9-8&signature=289847378ac983f9f80a6d685447556463ac9866&timestamp=1520314966","content-type":"xml","content":"<xml><ToUserName><![CDATA[gh_dbe83f07075e]]></ToUserName>
+<FromUserName><![CDATA[oF_4av4GAHDopFRLZ9aukJI9b9-8]]></FromUserName>
+<CreateTime>1520314966</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[二维无]]></Content>
+<MsgId>6529703059017172872</MsgId>
+</xml>"} 
+[2018-03-06 05:42:46] NULL.DEBUG: Server response created: {"content":"<xml><MsgType><![CDATA[text]]></MsgType><Content><![CDATA[二维无]]></Content><ToUserName><![CDATA[oF_4av4GAHDopFRLZ9aukJI9b9-8]]></ToUserName><FromUserName><![CDATA[gh_dbe83f07075e]]></FromUserName><CreateTime>1520314966</CreateTime></xml>"} 
+[2018-03-06 05:43:03] NULL.DEBUG: Request received: {"method":"POST","uri":"http://8eb704f5.ap.ngrok.io/wechat?nonce=1380501470&openid=oF_4av4GAHDopFRLZ9aukJI9b9-8&signature=81cb12b78640c7303aec7f5f6a2bf6f75db535e3&timestamp=1520314984","content-type":"xml","content":"<xml><ToUserName><![CDATA[gh_dbe83f07075e]]></ToUserName>
+<FromUserName><![CDATA[oF_4av4GAHDopFRLZ9aukJI9b9-8]]></FromUserName>
+<CreateTime>1520314984</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[12321]]></Content>
+<MsgId>6529703136326584206</MsgId>
+</xml>"} 
+[2018-03-06 05:43:03] NULL.DEBUG: Server response created: {"content":"<xml><MsgType><![CDATA[text]]></MsgType><Content><![CDATA['******使用说明******\
+'
+                      '首次使用需绑定手机号码\
+'
+                      '*绑定方法*\
+'
+                      '**直接发送手机号码给我\
+\
+'
+                      '*领取红包方法*\
+'
+                      '**直接将外卖红包分享给我\
+'
+                      '**或发送外卖红包链接地址']]></Content><ToUserName><![CDATA[oF_4av4GAHDopFRLZ9aukJI9b9-8]]></ToUserName><FromUserName><![CDATA[gh_dbe83f07075e]]></FromUserName><CreateTime>1520314983</CreateTime></xml>"} 
+[2018-03-06 05:43:59] NULL.DEBUG: Request received: {"method":"POST","uri":"http://8eb704f5.ap.ngrok.io/wechat?nonce=1809554290&openid=oF_4av4GAHDopFRLZ9aukJI9b9-8&signature=3892179da3217ffe9818374cac998cf04dfadf5f&timestamp=1520315040","content-type":"xml","content":"<xml><ToUserName><![CDATA[gh_dbe83f07075e]]></ToUserName>
+<FromUserName><![CDATA[oF_4av4GAHDopFRLZ9aukJI9b9-8]]></FromUserName>
+<CreateTime>1520315040</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[123123123]]></Content>
+<MsgId>6529703376844752802</MsgId>
+</xml>"} 
+[2018-03-06 05:43:59] NULL.DEBUG: Server response created: {"content":"<xml><MsgType><![CDATA[text]]></MsgType><Content><![CDATA[******使用说明******
+                        首次使用需绑定手机号码
+                            *绑定方法*
+                      **直接发送手机号码给我
+                      *领取红包方法*
+                      **直接将外卖红包分享给我
+                      **或发送外卖红包链接地址]]></Content><ToUserName><![CDATA[oF_4av4GAHDopFRLZ9aukJI9b9-8]]></ToUserName><FromUserName><![CDATA[gh_dbe83f07075e]]></FromUserName><CreateTime>1520315039</CreateTime></xml>"} 
+[2018-03-06 05:44:56] NULL.DEBUG: Request received: {"method":"POST","uri":"http://8eb704f5.ap.ngrok.io/wechat?nonce=1739895866&openid=oF_4av4GAHDopFRLZ9aukJI9b9-8&signature=e170f5806bb2f4a43611c249654ec8d0288ee5c4&timestamp=1520315097","content-type":"xml","content":"<xml><ToUserName><![CDATA[gh_dbe83f07075e]]></ToUserName>
+<FromUserName><![CDATA[oF_4av4GAHDopFRLZ9aukJI9b9-8]]></FromUserName>
+<CreateTime>1520315097</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[111]]></Content>
+<MsgId>6529703621657888712</MsgId>
+</xml>"} 
+[2018-03-06 05:44:56] NULL.DEBUG: Server response created: {"content":"<xml><MsgType><![CDATA[text]]></MsgType><Content><![CDATA[******使用说明******首次使用需绑定手机号码*绑定方法***直接发送手机号码给我*领取红包方法***直接将外卖红包分享给我**或发送外卖红包链接地址]]></Content><ToUserName><![CDATA[oF_4av4GAHDopFRLZ9aukJI9b9-8]]></ToUserName><FromUserName><![CDATA[gh_dbe83f07075e]]></FromUserName><CreateTime>1520315096</CreateTime></xml>"} 
+[2018-03-06 05:45:03] NULL.DEBUG: Request received: {"method":"POST","uri":"http://8eb704f5.ap.ngrok.io/wechat?nonce=2035697468&openid=oF_4av4GAHDopFRLZ9aukJI9b9-8&signature=4bb164bee462b45e562f61cc3cf833c48b159a91&timestamp=1520315104","content-type":"xml","content":"<xml><ToUserName><![CDATA[gh_dbe83f07075e]]></ToUserName>
+<FromUserName><![CDATA[oF_4av4GAHDopFRLZ9aukJI9b9-8]]></FromUserName>
+<CreateTime>1520315104</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[18553359039]]></Content>
+<MsgId>6529703651722659794</MsgId>
+</xml>"} 
+[2018-03-06 05:45:03] NULL.DEBUG: Server response created: {"content":"<xml><MsgType><![CDATA[text]]></MsgType><Content><![CDATA[******使用说明******首次使用需绑定手机号码*绑定方法***直接发送手机号码给我*领取红包方法***直接将外卖红包分享给我**或发送外卖红包链接地址]]></Content><ToUserName><![CDATA[oF_4av4GAHDopFRLZ9aukJI9b9-8]]></ToUserName><FromUserName><![CDATA[gh_dbe83f07075e]]></FromUserName><CreateTime>1520315103</CreateTime></xml>"} 
+[2018-03-06 05:47:33] NULL.DEBUG: Request received: {"method":"POST","uri":"http://8eb704f5.ap.ngrok.io/wechat?nonce=1623160042&openid=oF_4av4GAHDopFRLZ9aukJI9b9-8&signature=8f7078da754f2fc1ca72cfccaae0d13549bbcc73&timestamp=1520315254","content-type":"xml","content":"<xml><ToUserName><![CDATA[gh_dbe83f07075e]]></ToUserName>
+<FromUserName><![CDATA[oF_4av4GAHDopFRLZ9aukJI9b9-8]]></FromUserName>
+<CreateTime>1520315254</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[1231231]]></Content>
+<MsgId>6529704295967754299</MsgId>
+</xml>"} 
+[2018-03-06 05:47:33] NULL.DEBUG: Server response created: {"content":"<xml><MsgType><![CDATA[text]]></MsgType><Content><![CDATA[******使用说明******首次使用需绑定手机号码*绑定方法***直接发送手机号码给我*领取红包方法***直接将外卖红包分享给我**或发送外卖红包链接地址]]></Content><ToUserName><![CDATA[oF_4av4GAHDopFRLZ9aukJI9b9-8]]></ToUserName><FromUserName><![CDATA[gh_dbe83f07075e]]></FromUserName><CreateTime>1520315253</CreateTime></xml>"} 
+[2018-03-06 05:47:38] NULL.DEBUG: Request received: {"method":"POST","uri":"http://8eb704f5.ap.ngrok.io/wechat?nonce=347333167&openid=oF_4av4GAHDopFRLZ9aukJI9b9-8&signature=cdced65b80834a6cb0299ce1cf7d37eeedb3fe14&timestamp=1520315259","content-type":"xml","content":"<xml><ToUserName><![CDATA[gh_dbe83f07075e]]></ToUserName>
+<FromUserName><![CDATA[oF_4av4GAHDopFRLZ9aukJI9b9-8]]></FromUserName>
+<CreateTime>1520315259</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[饿了么]]></Content>
+<MsgId>6529704317442590791</MsgId>
+</xml>"} 
+[2018-03-06 05:47:38] NULL.DEBUG: Server response created: {"content":"<xml><MsgType><![CDATA[text]]></MsgType><Content><![CDATA[饿了么]]></Content><ToUserName><![CDATA[oF_4av4GAHDopFRLZ9aukJI9b9-8]]></ToUserName><FromUserName><![CDATA[gh_dbe83f07075e]]></FromUserName><CreateTime>1520315258</CreateTime></xml>"} 
+[2018-03-06 05:47:54] NULL.DEBUG: Request received: {"method":"POST","uri":"http://8eb704f5.ap.ngrok.io/wechat?nonce=178618377&openid=oF_4av4GAHDopFRLZ9aukJI9b9-8&signature=0c581c3f1c95570b3afad0ea8d5dce35388cbfd7&timestamp=1520315275","content-type":"xml","content":"<xml><ToUserName><![CDATA[gh_dbe83f07075e]]></ToUserName>
+<FromUserName><![CDATA[oF_4av4GAHDopFRLZ9aukJI9b9-8]]></FromUserName>
+<CreateTime>1520315275</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[12312312]]></Content>
+<MsgId>6529704386162067539</MsgId>
+</xml>"} 
+[2018-03-06 05:47:54] NULL.DEBUG: Server response created: {"content":"<xml><MsgType><![CDATA[text]]></MsgType><Content><![CDATA[******使用说明******首次使用需绑定手机号码*绑定方法***直接发送手机号码给我*领取红包方法***直接将外卖红包分享给我**或发送外卖红包链接地址]]></Content><ToUserName><![CDATA[oF_4av4GAHDopFRLZ9aukJI9b9-8]]></ToUserName><FromUserName><![CDATA[gh_dbe83f07075e]]></FromUserName><CreateTime>1520315274</CreateTime></xml>"} 
+[2018-03-06 05:48:02] NULL.DEBUG: Request received: {"method":"POST","uri":"http://8eb704f5.ap.ngrok.io/wechat?nonce=900072504&openid=oF_4av4GAHDopFRLZ9aukJI9b9-8&signature=d991b0e45338c58ca1bacc8633a6fff0af1af526&timestamp=1520315282","content-type":"xml","content":"<xml><ToUserName><![CDATA[gh_dbe83f07075e]]></ToUserName>
+<FromUserName><![CDATA[oF_4av4GAHDopFRLZ9aukJI9b9-8]]></FromUserName>
+<CreateTime>1520315282</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[18553359039]]></Content>
+<MsgId>6529704416226838613</MsgId>
+</xml>"} 
+[2018-03-06 05:48:02] NULL.DEBUG: Server response created: {"content":"<xml><MsgType><![CDATA[text]]></MsgType><Content><![CDATA[******使用说明******首次使用需绑定手机号码*绑定方法***直接发送手机号码给我*领取红包方法***直接将外卖红包分享给我**或发送外卖红包链接地址]]></Content><ToUserName><![CDATA[oF_4av4GAHDopFRLZ9aukJI9b9-8]]></ToUserName><FromUserName><![CDATA[gh_dbe83f07075e]]></FromUserName><CreateTime>1520315282</CreateTime></xml>"} 
+[2018-03-06 05:52:47] NULL.DEBUG: Request received: {"method":"POST","uri":"http://8eb704f5.ap.ngrok.io/wechat?nonce=1951560786&openid=oF_4av4GAHDopFRLZ9aukJI9b9-8&signature=0e835a27ef0cbd2f951934e3d92a86de8520593e&timestamp=1520315568","content-type":"xml","content":"<xml><ToUserName><![CDATA[gh_dbe83f07075e]]></ToUserName>
+<FromUserName><![CDATA[oF_4av4GAHDopFRLZ9aukJI9b9-8]]></FromUserName>
+<CreateTime>1520315568</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[18553359039]]></Content>
+<MsgId>6529705644587485370</MsgId>
+</xml>"} 
+[2018-03-06 05:52:47] NULL.DEBUG: Server response created: {"content":"<xml><MsgType><![CDATA[text]]></MsgType><Content>1</Content><ToUserName><![CDATA[oF_4av4GAHDopFRLZ9aukJI9b9-8]]></ToUserName><FromUserName><![CDATA[gh_dbe83f07075e]]></FromUserName><CreateTime>1520315567</CreateTime></xml>"} 
+[2018-03-06 05:54:57] NULL.DEBUG: Request received: {"method":"POST","uri":"http://8eb704f5.ap.ngrok.io/wechat?nonce=991984618&openid=oF_4av4GAHDopFRLZ9aukJI9b9-8&signature=443b2637a285b7320ee8dbf2cb6da3cdbee5a823&timestamp=1520315699","content-type":"xml","content":"<xml><ToUserName><![CDATA[gh_dbe83f07075e]]></ToUserName>
+<FromUserName><![CDATA[oF_4av4GAHDopFRLZ9aukJI9b9-8]]></FromUserName>
+<CreateTime>1520315699</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[18553359039、]]></Content>
+<MsgId>6529706207228201223</MsgId>
+</xml>"} 
+[2018-03-06 05:54:57] NULL.DEBUG: Server response created: {"content":"<xml><MsgType><![CDATA[text]]></MsgType><Content><![CDATA[******使用说明******首次使用需绑定手机号码*绑定方法]]></Content><ToUserName><![CDATA[oF_4av4GAHDopFRLZ9aukJI9b9-8]]></ToUserName><FromUserName><![CDATA[gh_dbe83f07075e]]></FromUserName><CreateTime>1520315697</CreateTime></xml>"} 
+[2018-03-06 05:55:16] NULL.DEBUG: Request received: {"method":"POST","uri":"http://8eb704f5.ap.ngrok.io/wechat?nonce=1337901491&openid=oF_4av4GAHDopFRLZ9aukJI9b9-8&signature=a35c4634b8a457c4c261200b0b6c690dccba1bf5&timestamp=1520315716","content-type":"xml","content":"<xml><ToUserName><![CDATA[gh_dbe83f07075e]]></ToUserName>
+<FromUserName><![CDATA[oF_4av4GAHDopFRLZ9aukJI9b9-8]]></FromUserName>
+<CreateTime>1520315716</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[15689295334]]></Content>
+<MsgId>6529706280242645265</MsgId>
+</xml>"} 
+[2018-03-06 05:55:16] NULL.DEBUG: Server response created: {"content":"<xml><MsgType><![CDATA[text]]></MsgType><Content>15689295334</Content><ToUserName><![CDATA[oF_4av4GAHDopFRLZ9aukJI9b9-8]]></ToUserName><FromUserName><![CDATA[gh_dbe83f07075e]]></FromUserName><CreateTime>1520315716</CreateTime></xml>"} 
+[2018-03-06 05:55:30] NULL.DEBUG: Request received: {"method":"POST","uri":"http://8eb704f5.ap.ngrok.io/wechat?nonce=430177885&openid=oF_4av4GAHDopFRLZ9aukJI9b9-8&signature=080f1d9b893cd478d29be3ee3587ddda250c684e&timestamp=1520315731","content-type":"xml","content":"<xml><ToUserName><![CDATA[gh_dbe83f07075e]]></ToUserName>
+<FromUserName><![CDATA[oF_4av4GAHDopFRLZ9aukJI9b9-8]]></FromUserName>
+<CreateTime>1520315731</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[https://h5.ele.me]]></Content>
+<MsgId>6529706344667154711</MsgId>
+</xml>"} 
+[2018-03-06 05:55:30] NULL.DEBUG: Server response created: {"content":"<xml><MsgType><![CDATA[text]]></MsgType><Content><![CDATA[是饿了么]]></Content><ToUserName><![CDATA[oF_4av4GAHDopFRLZ9aukJI9b9-8]]></ToUserName><FromUserName><![CDATA[gh_dbe83f07075e]]></FromUserName><CreateTime>1520315730</CreateTime></xml>"} 
+[2018-03-06 06:07:28] NULL.DEBUG: Request received: {"method":"POST","uri":"http://8eb704f5.ap.ngrok.io/wechat?nonce=2082263243&openid=oF_4av4GAHDopFRLZ9aukJI9b9-8&signature=a9fb3390be2848c550e494ee213791c0e6ffb579&timestamp=1520316449","content-type":"xml","content":"<xml><ToUserName><![CDATA[gh_dbe83f07075e]]></ToUserName>
+<FromUserName><![CDATA[oF_4av4GAHDopFRLZ9aukJI9b9-8]]></FromUserName>
+<CreateTime>1520316448</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[1321]]></Content>
+<MsgId>6529709424158706206</MsgId>
+</xml>"} 
+[2018-03-06 06:07:28] NULL.DEBUG: Server response created: {"content":"<xml><MsgType><![CDATA[text]]></MsgType><Content><![CDATA[******使用说明******首次使用需绑定手机号码*绑定方法]]></Content><ToUserName><![CDATA[oF_4av4GAHDopFRLZ9aukJI9b9-8]]></ToUserName><FromUserName><![CDATA[gh_dbe83f07075e]]></FromUserName><CreateTime>1520316448</CreateTime></xml>"} 
+[2018-03-06 06:07:34] NULL.DEBUG: Request received: {"method":"POST","uri":"http://8eb704f5.ap.ngrok.io/wechat?nonce=1180208630&openid=oF_4av4GAHDopFRLZ9aukJI9b9-8&signature=0ed166bff5c546fa7abdd32b42e5f065a5f818f7&timestamp=1520316455","content-type":"xml","content":"<xml><ToUserName><![CDATA[gh_dbe83f07075e]]></ToUserName>
+<FromUserName><![CDATA[oF_4av4GAHDopFRLZ9aukJI9b9-8]]></FromUserName>
+<CreateTime>1520316455</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[18553359039]]></Content>
+<MsgId>6529709454223477285</MsgId>
+</xml>"} 
+[2018-03-06 06:07:34] NULL.DEBUG: Server response created: {"content":"<xml><MsgType><![CDATA[text]]></MsgType><Content><![CDATA[绑定成功]]></Content><ToUserName><![CDATA[oF_4av4GAHDopFRLZ9aukJI9b9-8]]></ToUserName><FromUserName><![CDATA[gh_dbe83f07075e]]></FromUserName><CreateTime>1520316454</CreateTime></xml>"} 
+[2018-03-06 06:09:55] NULL.DEBUG: Request received: {"method":"POST","uri":"http://8eb704f5.ap.ngrok.io/wechat?nonce=75359301&openid=oF_4av4GAHDopFRLZ9aukJI9b9-8&signature=419dbf0378d8848250df9d3949a3ae3ac1fc6514&timestamp=1520316596","content-type":"xml","content":"<xml><ToUserName><![CDATA[gh_dbe83f07075e]]></ToUserName>
+<FromUserName><![CDATA[oF_4av4GAHDopFRLZ9aukJI9b9-8]]></FromUserName>
+<CreateTime>1520316596</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[18553359039]]></Content>
+<MsgId>6529710059813866096</MsgId>
+</xml>"} 
+[2018-03-06 06:09:55] NULL.DEBUG: Server response created: {"content":"<xml><MsgType><![CDATA[text]]></MsgType><Content><![CDATA[绑定成功]]></Content><ToUserName><![CDATA[oF_4av4GAHDopFRLZ9aukJI9b9-8]]></ToUserName><FromUserName><![CDATA[gh_dbe83f07075e]]></FromUserName><CreateTime>1520316595</CreateTime></xml>"} 
+[2018-03-06 06:11:12] NULL.DEBUG: Request received: {"method":"POST","uri":"http://8eb704f5.ap.ngrok.io/wechat?nonce=830529026&openid=oF_4av4GAHDopFRLZ9aukJI9b9-8&signature=92f09c37002c3ef7e98767c629f10a069858c53a&timestamp=1520316672","content-type":"xml","content":"<xml><ToUserName><![CDATA[gh_dbe83f07075e]]></ToUserName>
+<FromUserName><![CDATA[oF_4av4GAHDopFRLZ9aukJI9b9-8]]></FromUserName>
+<CreateTime>1520316672</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[return '绑定成功';]]></Content>
+<MsgId>6529710386231380618</MsgId>
+</xml>"} 
+[2018-03-06 06:11:12] NULL.DEBUG: Server response created: {"content":"<xml><MsgType><![CDATA[text]]></MsgType><Content><![CDATA[******使用说明******首次使用需绑定手机号码*绑定方法]]></Content><ToUserName><![CDATA[oF_4av4GAHDopFRLZ9aukJI9b9-8]]></ToUserName><FromUserName><![CDATA[gh_dbe83f07075e]]></FromUserName><CreateTime>1520316672</CreateTime></xml>"} 
+[2018-03-06 06:11:17] NULL.DEBUG: Request received: {"method":"POST","uri":"http://8eb704f5.ap.ngrok.io/wechat?nonce=985778881&openid=oF_4av4GAHDopFRLZ9aukJI9b9-8&signature=f4997920a164bac7eebc2fb7e5ba1617e29b742d&timestamp=1520316678","content-type":"xml","content":"<xml><ToUserName><![CDATA[gh_dbe83f07075e]]></ToUserName>
+<FromUserName><![CDATA[oF_4av4GAHDopFRLZ9aukJI9b9-8]]></FromUserName>
+<CreateTime>1520316678</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[18553359039]]></Content>
+<MsgId>6529710412001184398</MsgId>
+</xml>"} 
+[2018-03-06 06:11:17] NULL.DEBUG: Server response created: {"content":"success"} 
+[2018-03-06 06:14:41] NULL.DEBUG: Request received: {"method":"POST","uri":"http://8eb704f5.ap.ngrok.io/wechat?nonce=65342528&openid=oF_4av4GAHDopFRLZ9aukJI9b9-8&signature=3a5a9e9db9dc93c18421a607558a1a747f162d70&timestamp=1520316882","content-type":"xml","content":"<xml><ToUserName><![CDATA[gh_dbe83f07075e]]></ToUserName>
+<FromUserName><![CDATA[oF_4av4GAHDopFRLZ9aukJI9b9-8]]></FromUserName>
+<CreateTime>1520316882</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[protected $table = 'my_flights';]]></Content>
+<MsgId>6529711288174512907</MsgId>
+</xml>"} 
+[2018-03-06 06:14:41] NULL.DEBUG: Server response created: {"content":"<xml><MsgType><![CDATA[text]]></MsgType><Content><![CDATA[******使用说明******首次使用需绑定手机号码*绑定方法]]></Content><ToUserName><![CDATA[oF_4av4GAHDopFRLZ9aukJI9b9-8]]></ToUserName><FromUserName><![CDATA[gh_dbe83f07075e]]></FromUserName><CreateTime>1520316881</CreateTime></xml>"} 
+[2018-03-06 06:14:47] NULL.DEBUG: Request received: {"method":"POST","uri":"http://8eb704f5.ap.ngrok.io/wechat?nonce=852376487&openid=oF_4av4GAHDopFRLZ9aukJI9b9-8&signature=382e472100ec019c635c6d87faf7b98b0ac6cb84&timestamp=1520316888","content-type":"xml","content":"<xml><ToUserName><![CDATA[gh_dbe83f07075e]]></ToUserName>
+<FromUserName><![CDATA[oF_4av4GAHDopFRLZ9aukJI9b9-8]]></FromUserName>
+<CreateTime>1520316888</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[18553359039]]></Content>
+<MsgId>6529711313944316689</MsgId>
+</xml>"} 
+[2018-03-06 06:14:47] NULL.DEBUG: Server response created: {"content":"success"} 
+[2018-03-06 06:15:48] NULL.DEBUG: Request received: {"method":"POST","uri":"http://8eb704f5.ap.ngrok.io/wechat?nonce=733690577&openid=oF_4av4GAHDopFRLZ9aukJI9b9-8&signature=dcedd1d9f291acb94cab78145eb72bac19207823&timestamp=1520316949","content-type":"xml","content":"<xml><ToUserName><![CDATA[gh_dbe83f07075e]]></ToUserName>
+<FromUserName><![CDATA[oF_4av4GAHDopFRLZ9aukJI9b9-8]]></FromUserName>
+<CreateTime>1520316949</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[18553359039]]></Content>
+<MsgId>6529711575937321769</MsgId>
+</xml>"} 
+[2018-03-06 06:15:48] NULL.DEBUG: Server response created: {"content":"success"} 
+[2018-03-06 06:20:36] NULL.DEBUG: Request received: {"method":"POST","uri":"http://8eb704f5.ap.ngrok.io/wechat?nonce=1240642131&openid=oF_4av4GAHDopFRLZ9aukJI9b9-8&signature=c57ff1fa8e71c5bff70dc41c15f5840a3fc62d90&timestamp=1520317237","content-type":"xml","content":"<xml><ToUserName><![CDATA[gh_dbe83f07075e]]></ToUserName>
+<FromUserName><![CDATA[oF_4av4GAHDopFRLZ9aukJI9b9-8]]></FromUserName>
+<CreateTime>1520317237</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[18553359039]]></Content>
+<MsgId>6529712812887903123</MsgId>
+</xml>"} 
+[2018-03-06 06:20:36] NULL.ERROR: 0: Add [openid] to fillable property to allow mass assignment on [App\Models\User]. {"code":0,"message":"Add [openid] to fillable property to allow mass assignment on [App\\Models\\User].","file":"E:\\homestead\\code\\eleme\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Eloquent\\Model.php","line":240} 
+[2018-03-06 06:20:36] NULL.DEBUG: Server response created: {"content":"success"} 
+[2018-03-06 06:23:01] NULL.DEBUG: Request received: {"method":"POST","uri":"http://8eb704f5.ap.ngrok.io/wechat?nonce=1047603314&openid=oF_4av4GAHDopFRLZ9aukJI9b9-8&signature=0ebdd5ea6d56022652cb71c9f99242696f1d03f0&timestamp=1520317381","content-type":"xml","content":"<xml><ToUserName><![CDATA[gh_dbe83f07075e]]></ToUserName>
+<FromUserName><![CDATA[oF_4av4GAHDopFRLZ9aukJI9b9-8]]></FromUserName>
+<CreateTime>1520317381</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[18553359039]]></Content>
+<MsgId>6529713431363193839</MsgId>
+</xml>"} 
+[2018-03-06 06:23:05] NULL.DEBUG: Request received: {"method":"POST","uri":"http://8eb704f5.ap.ngrok.io/wechat?nonce=1047603314&openid=oF_4av4GAHDopFRLZ9aukJI9b9-8&signature=0ebdd5ea6d56022652cb71c9f99242696f1d03f0&timestamp=1520317381","content-type":"xml","content":"<xml><ToUserName><![CDATA[gh_dbe83f07075e]]></ToUserName>
+<FromUserName><![CDATA[oF_4av4GAHDopFRLZ9aukJI9b9-8]]></FromUserName>
+<CreateTime>1520317381</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[18553359039]]></Content>
+<MsgId>6529713431363193839</MsgId>
+</xml>"} 
+[2018-03-06 06:23:07] NULL.DEBUG: Request received: {"method":"POST","uri":"http://8eb704f5.ap.ngrok.io/wechat?nonce=1047603314&openid=oF_4av4GAHDopFRLZ9aukJI9b9-8&signature=0ebdd5ea6d56022652cb71c9f99242696f1d03f0&timestamp=1520317381","content-type":"xml","content":"<xml><ToUserName><![CDATA[gh_dbe83f07075e]]></ToUserName>
+<FromUserName><![CDATA[oF_4av4GAHDopFRLZ9aukJI9b9-8]]></FromUserName>
+<CreateTime>1520317381</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[18553359039]]></Content>
+<MsgId>6529713431363193839</MsgId>
+</xml>"} 
+[2018-03-06 06:23:38] NULL.DEBUG: Request received: {"method":"POST","uri":"http://8eb704f5.ap.ngrok.io/wechat?nonce=297403193&openid=oF_4av4GAHDopFRLZ9aukJI9b9-8&signature=e0efc248097f19a5d06b6bac3bd59d10678b7419&timestamp=1520317419","content-type":"xml","content":"<xml><ToUserName><![CDATA[gh_dbe83f07075e]]></ToUserName>
+<FromUserName><![CDATA[oF_4av4GAHDopFRLZ9aukJI9b9-8]]></FromUserName>
+<CreateTime>1520317419</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[18553359039]]></Content>
+<MsgId>6529713594571951106</MsgId>
+</xml>"} 
+[2018-03-06 06:23:38] NULL.DEBUG: Server response created: {"content":"success"} 
+[2018-03-06 06:25:53] NULL.DEBUG: Request received: {"method":"POST","uri":"http://8eb704f5.ap.ngrok.io/wechat?nonce=1837701807&openid=oF_4av4GAHDopFRLZ9aukJI9b9-8&signature=7f7035c568c7aaee52999933feb82e1b15534623&timestamp=1520317554","content-type":"xml","content":"<xml><ToUserName><![CDATA[gh_dbe83f07075e]]></ToUserName>
+<FromUserName><![CDATA[oF_4av4GAHDopFRLZ9aukJI9b9-8]]></FromUserName>
+<CreateTime>1520317554</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[18553359039]]></Content>
+<MsgId>6529714174392536109</MsgId>
+</xml>"} 
+[2018-03-06 06:26:34] NULL.DEBUG: Request received: {"method":"POST","uri":"http://8eb704f5.ap.ngrok.io/wechat?nonce=1746107179&openid=oF_4av4GAHDopFRLZ9aukJI9b9-8&signature=de2a276cd7b4a4386dda310c2859da76bf94074a&timestamp=1520317594","content-type":"xml","content":"<xml><ToUserName><![CDATA[gh_dbe83f07075e]]></ToUserName>
+<FromUserName><![CDATA[oF_4av4GAHDopFRLZ9aukJI9b9-8]]></FromUserName>
+<CreateTime>1520317594</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[18553359039]]></Content>
+<MsgId>6529714346191227963</MsgId>
+</xml>"} 
+[2018-03-06 06:26:34] NULL.ERROR: 0: Add [openid] to fillable property to allow mass assignment on [App\Models\User]. {"code":0,"message":"Add [openid] to fillable property to allow mass assignment on [App\\Models\\User].","file":"E:\\homestead\\code\\eleme\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Eloquent\\Model.php","line":240} 
+[2018-03-06 06:26:34] NULL.DEBUG: Server response created: {"content":"success"} 
+[2018-03-06 06:33:00] NULL.DEBUG: Request received: {"method":"POST","uri":"http://8eb704f5.ap.ngrok.io/wechat?nonce=202053316&openid=oF_4av4GAHDopFRLZ9aukJI9b9-8&signature=fa798775bf557e9f9f15a8a498d077b70887e4bf&timestamp=1520317980","content-type":"xml","content":"<xml><ToUserName><![CDATA[gh_dbe83f07075e]]></ToUserName>
+<FromUserName><![CDATA[oF_4av4GAHDopFRLZ9aukJI9b9-8]]></FromUserName>
+<CreateTime>1520317980</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[18553359039]]></Content>
+<MsgId>6529716004048604361</MsgId>
+</xml>"} 
+[2018-03-06 06:33:02] NULL.DEBUG: Request received: {"method":"POST","uri":"http://8eb704f5.ap.ngrok.io/wechat?nonce=202053316&openid=oF_4av4GAHDopFRLZ9aukJI9b9-8&signature=fa798775bf557e9f9f15a8a498d077b70887e4bf&timestamp=1520317980","content-type":"xml","content":"<xml><ToUserName><![CDATA[gh_dbe83f07075e]]></ToUserName>
+<FromUserName><![CDATA[oF_4av4GAHDopFRLZ9aukJI9b9-8]]></FromUserName>
+<CreateTime>1520317980</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[18553359039]]></Content>
+<MsgId>6529716004048604361</MsgId>
+</xml>"} 
+[2018-03-06 06:33:03] NULL.DEBUG: Request received: {"method":"POST","uri":"http://8eb704f5.ap.ngrok.io/wechat?nonce=202053316&openid=oF_4av4GAHDopFRLZ9aukJI9b9-8&signature=fa798775bf557e9f9f15a8a498d077b70887e4bf&timestamp=1520317980","content-type":"xml","content":"<xml><ToUserName><![CDATA[gh_dbe83f07075e]]></ToUserName>
+<FromUserName><![CDATA[oF_4av4GAHDopFRLZ9aukJI9b9-8]]></FromUserName>
+<CreateTime>1520317980</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[18553359039]]></Content>
+<MsgId>6529716004048604361</MsgId>
+</xml>"} 
+[2018-03-06 06:33:35] NULL.DEBUG: Request received: {"method":"POST","uri":"http://8eb704f5.ap.ngrok.io/wechat?nonce=269165669&openid=oF_4av4GAHDopFRLZ9aukJI9b9-8&signature=babb9a92563e54de1460305422d4967aca8ecadb&timestamp=1520318016","content-type":"xml","content":"<xml><ToUserName><![CDATA[gh_dbe83f07075e]]></ToUserName>
+<FromUserName><![CDATA[oF_4av4GAHDopFRLZ9aukJI9b9-8]]></FromUserName>
+<CreateTime>1520318016</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[18553359039]]></Content>
+<MsgId>6529716158667427043</MsgId>
+</xml>"} 
+[2018-03-06 06:33:37] NULL.DEBUG: Request received: {"method":"POST","uri":"http://8eb704f5.ap.ngrok.io/wechat?nonce=269165669&openid=oF_4av4GAHDopFRLZ9aukJI9b9-8&signature=babb9a92563e54de1460305422d4967aca8ecadb&timestamp=1520318016","content-type":"xml","content":"<xml><ToUserName><![CDATA[gh_dbe83f07075e]]></ToUserName>
+<FromUserName><![CDATA[oF_4av4GAHDopFRLZ9aukJI9b9-8]]></FromUserName>
+<CreateTime>1520318016</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[18553359039]]></Content>
+<MsgId>6529716158667427043</MsgId>
+</xml>"} 
+[2018-03-06 06:33:39] NULL.DEBUG: Request received: {"method":"POST","uri":"http://8eb704f5.ap.ngrok.io/wechat?nonce=269165669&openid=oF_4av4GAHDopFRLZ9aukJI9b9-8&signature=babb9a92563e54de1460305422d4967aca8ecadb&timestamp=1520318016","content-type":"xml","content":"<xml><ToUserName><![CDATA[gh_dbe83f07075e]]></ToUserName>
+<FromUserName><![CDATA[oF_4av4GAHDopFRLZ9aukJI9b9-8]]></FromUserName>
+<CreateTime>1520318016</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[18553359039]]></Content>
+<MsgId>6529716158667427043</MsgId>
+</xml>"} 
+[2018-03-06 06:34:08] NULL.DEBUG: Request received: {"method":"POST","uri":"http://8eb704f5.ap.ngrok.io/wechat?nonce=1564688262&openid=oF_4av4GAHDopFRLZ9aukJI9b9-8&signature=312f2cccffc37b9ca5c645fdabc373f51197e1bb&timestamp=1520318049","content-type":"xml","content":"<xml><ToUserName><![CDATA[gh_dbe83f07075e]]></ToUserName>
+<FromUserName><![CDATA[oF_4av4GAHDopFRLZ9aukJI9b9-8]]></FromUserName>
+<CreateTime>1520318049</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[1312312]]></Content>
+<MsgId>6529716300401347844</MsgId>
+</xml>"} 
+[2018-03-06 06:34:08] NULL.DEBUG: Server response created: {"content":"<xml><MsgType><![CDATA[text]]></MsgType><Content><![CDATA[******使用说明******首次使用需绑定手机号码*绑定方法]]></Content><ToUserName><![CDATA[oF_4av4GAHDopFRLZ9aukJI9b9-8]]></ToUserName><FromUserName><![CDATA[gh_dbe83f07075e]]></FromUserName><CreateTime>1520318048</CreateTime></xml>"} 
+[2018-03-06 06:35:41] NULL.DEBUG: Request received: {"method":"POST","uri":"http://8eb704f5.ap.ngrok.io/wechat?nonce=775638160&openid=oF_4av4GAHDopFRLZ9aukJI9b9-8&signature=dbd4d87bc340728b7e01bc4c068b68c9855988f6&timestamp=1520318142","content-type":"xml","content":"<xml><ToUserName><![CDATA[gh_dbe83f07075e]]></ToUserName>
+<FromUserName><![CDATA[oF_4av4GAHDopFRLZ9aukJI9b9-8]]></FromUserName>
+<CreateTime>1520318141</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[18553359039]]></Content>
+<MsgId>6529716695538339125</MsgId>
+</xml>"} 
+[2018-03-06 06:35:41] NULL.DEBUG: Server response created: {"content":"<xml><MsgType><![CDATA[text]]></MsgType><Content><![CDATA[保存成功]]></Content><ToUserName><![CDATA[oF_4av4GAHDopFRLZ9aukJI9b9-8]]></ToUserName><FromUserName><![CDATA[gh_dbe83f07075e]]></FromUserName><CreateTime>1520318141</CreateTime></xml>"} 
+[2018-03-06 06:36:30] NULL.DEBUG: Request received: {"method":"POST","uri":"http://8eb704f5.ap.ngrok.io/wechat?nonce=140699447&openid=oF_4av4GAHDopFRLZ9aukJI9b9-8&signature=86b5047570303260488fc3ddcb2660ab3b956f85&timestamp=1520318191","content-type":"xml","content":"<xml><ToUserName><![CDATA[gh_dbe83f07075e]]></ToUserName>
+<FromUserName><![CDATA[oF_4av4GAHDopFRLZ9aukJI9b9-8]]></FromUserName>
+<CreateTime>1520318191</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[18553359039]]></Content>
+<MsgId>6529716910286703973</MsgId>
+</xml>"} 
+[2018-03-06 06:36:30] NULL.DEBUG: Server response created: {"content":"<xml><MsgType><![CDATA[text]]></MsgType><Content><![CDATA[保存成功]]></Content><ToUserName><![CDATA[oF_4av4GAHDopFRLZ9aukJI9b9-8]]></ToUserName><FromUserName><![CDATA[gh_dbe83f07075e]]></FromUserName><CreateTime>1520318190</CreateTime></xml>"} 
+[2018-03-06 06:36:43] NULL.DEBUG: Request received: {"method":"POST","uri":"http://8eb704f5.ap.ngrok.io/wechat?nonce=793525290&openid=oF_4av4GAHDopFRLZ9aukJI9b9-8&signature=b3c5b754cf19eab483fb7f1b0c8a12c1a9bffd0e&timestamp=1520318204","content-type":"xml","content":"<xml><ToUserName><![CDATA[gh_dbe83f07075e]]></ToUserName>
+<FromUserName><![CDATA[oF_4av4GAHDopFRLZ9aukJI9b9-8]]></FromUserName>
+<CreateTime>1520318204</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[15689295334]]></Content>
+<MsgId>6529716966121278831</MsgId>
+</xml>"} 
+[2018-03-06 06:36:43] NULL.DEBUG: Server response created: {"content":"<xml><MsgType><![CDATA[text]]></MsgType><Content><![CDATA[保存成功]]></Content><ToUserName><![CDATA[oF_4av4GAHDopFRLZ9aukJI9b9-8]]></ToUserName><FromUserName><![CDATA[gh_dbe83f07075e]]></FromUserName><CreateTime>1520318203</CreateTime></xml>"} 
+[2018-03-06 06:39:59] NULL.DEBUG: Request received: {"method":"POST","uri":"http://8eb704f5.ap.ngrok.io/wechat?nonce=1862237900&openid=oF_4av4GAHDopFRLZ9aukJI9b9-8&signature=9dac10572dc0a2035e64ea6eedbd272b5fa525cc&timestamp=1520318400","content-type":"xml","content":"<xml><ToUserName><![CDATA[gh_dbe83f07075e]]></ToUserName>
+<FromUserName><![CDATA[oF_4av4GAHDopFRLZ9aukJI9b9-8]]></FromUserName>
+<CreateTime>1520318400</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[18553359039]]></Content>
+<MsgId>6529717807934868938</MsgId>
+</xml>"} 
+[2018-03-06 06:39:59] NULL.DEBUG: Server response created: {"content":"<xml><MsgType><![CDATA[text]]></MsgType><Content><![CDATA[修改成功]]></Content><ToUserName><![CDATA[oF_4av4GAHDopFRLZ9aukJI9b9-8]]></ToUserName><FromUserName><![CDATA[gh_dbe83f07075e]]></FromUserName><CreateTime>1520318399</CreateTime></xml>"} 
+[2018-03-06 06:55:06] NULL.DEBUG: Request received: {"method":"POST","uri":"http://8eb704f5.ap.ngrok.io/wechat?nonce=1629618607&openid=oF_4av4GAHDopFRLZ9aukJI9b9-8&signature=42179501966b2053300c38974e167b52dea1c449&timestamp=1520319307","content-type":"xml","content":"<xml><ToUserName><![CDATA[gh_dbe83f07075e]]></ToUserName>
+<FromUserName><![CDATA[oF_4av4GAHDopFRLZ9aukJI9b9-8]]></FromUserName>
+<CreateTime>1520319307</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[https://h5.ele.me/hongbao/#hardware_id=&is_lucky_group=True&lucky_number=6&track_id=&platform=0&sn=29e9ca0c861e5c2b&theme_id=2257&device_id=]]></Content>
+<MsgId>6529721703470206865</MsgId>
+</xml>"} 
+[2018-03-06 06:57:42] NULL.DEBUG: Request received: {"method":"POST","uri":"http://8eb704f5.ap.ngrok.io/wechat?nonce=1816921429&openid=oF_4av4GAHDopFRLZ9aukJI9b9-8&signature=71b6a02989a6f1913597fffedbb01e1e0998423d&timestamp=1520319463","content-type":"xml","content":"<xml><ToUserName><![CDATA[gh_dbe83f07075e]]></ToUserName>
+<FromUserName><![CDATA[oF_4av4GAHDopFRLZ9aukJI9b9-8]]></FromUserName>
+<CreateTime>1520319463</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[18553359039]]></Content>
+<MsgId>6529722373485105150</MsgId>
+</xml>"} 
+[2018-03-06 06:57:42] NULL.DEBUG: Server response created: {"content":"<xml><MsgType><![CDATA[text]]></MsgType><Content><![CDATA[修改成功]]></Content><ToUserName><![CDATA[oF_4av4GAHDopFRLZ9aukJI9b9-8]]></ToUserName><FromUserName><![CDATA[gh_dbe83f07075e]]></FromUserName><CreateTime>1520319462</CreateTime></xml>"} 
+[2018-03-06 06:57:51] NULL.DEBUG: Request received: {"method":"POST","uri":"http://8eb704f5.ap.ngrok.io/wechat?nonce=137328150&openid=oF_4av4GAHDopFRLZ9aukJI9b9-8&signature=f6d847d05dbdde711fbea80bf4d4a4fab53250fa&timestamp=1520319473","content-type":"xml","content":"<xml><ToUserName><![CDATA[gh_dbe83f07075e]]></ToUserName>
+<FromUserName><![CDATA[oF_4av4GAHDopFRLZ9aukJI9b9-8]]></FromUserName>
+<CreateTime>1520319472</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[https://h5.ele.me/hongbao/#hardware_id=&is_lucky_group=True&lucky_number=6&track_id=&platform=0&sn=29e9ca0c861e5c2b&theme_id=2257&device_id=]]></Content>
+<MsgId>6529722412139810818</MsgId>
+</xml>"} 
+[2018-03-06 06:57:54] NULL.DEBUG: Request received: {"method":"POST","uri":"http://8eb704f5.ap.ngrok.io/wechat?nonce=137328150&openid=oF_4av4GAHDopFRLZ9aukJI9b9-8&signature=f6d847d05dbdde711fbea80bf4d4a4fab53250fa&timestamp=1520319473","content-type":"xml","content":"<xml><ToUserName><![CDATA[gh_dbe83f07075e]]></ToUserName>
+<FromUserName><![CDATA[oF_4av4GAHDopFRLZ9aukJI9b9-8]]></FromUserName>
+<CreateTime>1520319472</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[https://h5.ele.me/hongbao/#hardware_id=&is_lucky_group=True&lucky_number=6&track_id=&platform=0&sn=29e9ca0c861e5c2b&theme_id=2257&device_id=]]></Content>
+<MsgId>6529722412139810818</MsgId>
+</xml>"} 
+[2018-03-06 06:57:55] NULL.DEBUG: Request received: {"method":"POST","uri":"http://8eb704f5.ap.ngrok.io/wechat?nonce=137328150&openid=oF_4av4GAHDopFRLZ9aukJI9b9-8&signature=f6d847d05dbdde711fbea80bf4d4a4fab53250fa&timestamp=1520319473","content-type":"xml","content":"<xml><ToUserName><![CDATA[gh_dbe83f07075e]]></ToUserName>
+<FromUserName><![CDATA[oF_4av4GAHDopFRLZ9aukJI9b9-8]]></FromUserName>
+<CreateTime>1520319472</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[https://h5.ele.me/hongbao/#hardware_id=&is_lucky_group=True&lucky_number=6&track_id=&platform=0&sn=29e9ca0c861e5c2b&theme_id=2257&device_id=]]></Content>
+<MsgId>6529722412139810818</MsgId>
+</xml>"} 
+[2018-03-06 07:03:00] NULL.DEBUG: Request received: {"method":"POST","uri":"http://8eb704f5.ap.ngrok.io/wechat?nonce=1460801105&openid=oF_4av4GAHDopFRLZ9aukJI9b9-8&signature=8785bb1ae6e03ef6b9f8877837605033cb36512f&timestamp=1520319781","content-type":"xml","content":"<xml><ToUserName><![CDATA[gh_dbe83f07075e]]></ToUserName>
+<FromUserName><![CDATA[oF_4av4GAHDopFRLZ9aukJI9b9-8]]></FromUserName>
+<CreateTime>1520319781</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[https://h5.ele.me/hongbao/#hardware_id=&is_lucky_group=True&lucky_number=6&track_id=&platform=0&sn=29e9ca0c861e5c2b&theme_id=2257&device_id=]]></Content>
+<MsgId>6529723739284705454</MsgId>
+</xml>"} 
+[2018-03-06 07:04:18] NULL.DEBUG: Request received: {"method":"POST","uri":"http://8eb704f5.ap.ngrok.io/wechat?nonce=255664483&openid=oF_4av4GAHDopFRLZ9aukJI9b9-8&signature=15746266ec5856cf0c0d3a8e2e8e59d61ea774d2&timestamp=1520319859","content-type":"xml","content":"<xml><ToUserName><![CDATA[gh_dbe83f07075e]]></ToUserName>
+<FromUserName><![CDATA[oF_4av4GAHDopFRLZ9aukJI9b9-8]]></FromUserName>
+<CreateTime>1520319859</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[https://h5.ele.me/hongbao/#hardware_id=&is_lucky_group=True&lucky_number=6&track_id=&platform=0&sn=29e9ca0c861e5c2b&theme_id=2257&device_id=]]></Content>
+<MsgId>6529724074292154570</MsgId>
+</xml>"} 
+[2018-03-06 07:04:20] NULL.DEBUG: Request received: {"method":"POST","uri":"http://8eb704f5.ap.ngrok.io/wechat?nonce=255664483&openid=oF_4av4GAHDopFRLZ9aukJI9b9-8&signature=15746266ec5856cf0c0d3a8e2e8e59d61ea774d2&timestamp=1520319859","content-type":"xml","content":"<xml><ToUserName><![CDATA[gh_dbe83f07075e]]></ToUserName>
+<FromUserName><![CDATA[oF_4av4GAHDopFRLZ9aukJI9b9-8]]></FromUserName>
+<CreateTime>1520319859</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[https://h5.ele.me/hongbao/#hardware_id=&is_lucky_group=True&lucky_number=6&track_id=&platform=0&sn=29e9ca0c861e5c2b&theme_id=2257&device_id=]]></Content>
+<MsgId>6529724074292154570</MsgId>
+</xml>"} 
+[2018-03-06 07:04:21] NULL.DEBUG: Request received: {"method":"POST","uri":"http://8eb704f5.ap.ngrok.io/wechat?nonce=255664483&openid=oF_4av4GAHDopFRLZ9aukJI9b9-8&signature=15746266ec5856cf0c0d3a8e2e8e59d61ea774d2&timestamp=1520319859","content-type":"xml","content":"<xml><ToUserName><![CDATA[gh_dbe83f07075e]]></ToUserName>
+<FromUserName><![CDATA[oF_4av4GAHDopFRLZ9aukJI9b9-8]]></FromUserName>
+<CreateTime>1520319859</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[https://h5.ele.me/hongbao/#hardware_id=&is_lucky_group=True&lucky_number=6&track_id=&platform=0&sn=29e9ca0c861e5c2b&theme_id=2257&device_id=]]></Content>
+<MsgId>6529724074292154570</MsgId>
+</xml>"} 
+[2018-03-06 07:06:04] NULL.DEBUG: Request received: {"method":"POST","uri":"http://8eb704f5.ap.ngrok.io/wechat?nonce=1506246776&openid=oF_4av4GAHDopFRLZ9aukJI9b9-8&signature=b5af26bf41a552ed27a8a5edf9c578236b4082c9&timestamp=1520319965","content-type":"xml","content":"<xml><ToUserName><![CDATA[gh_dbe83f07075e]]></ToUserName>
+<FromUserName><![CDATA[oF_4av4GAHDopFRLZ9aukJI9b9-8]]></FromUserName>
+<CreateTime>1520319965</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[https://h5.ele.me/hongbao/#hardware_id=&is_lucky_group=True&lucky_number=6&track_id=&platform=0&sn=29e9ca0c861e5c2b&theme_id=2257&device_id=]]></Content>
+<MsgId>6529724529558687995</MsgId>
+</xml>"} 
+[2018-03-06 07:06:04] NULL.DEBUG: Server response created: {"content":"<xml><MsgType><![CDATA[text]]></MsgType><Content><![CDATA[https://h5.ele.me/hongbao/#hardware_id=&is_lucky_group=True&lucky_number=6&track_id=&platform=0&sn=29e9ca0c861e5c2b&theme_id=2257&device_id=]]></Content><ToUserName><![CDATA[oF_4av4GAHDopFRLZ9aukJI9b9-8]]></ToUserName><FromUserName><![CDATA[gh_dbe83f07075e]]></FromUserName><CreateTime>1520319964</CreateTime></xml>"} 
+[2018-03-06 07:07:50] NULL.DEBUG: Request received: {"method":"POST","uri":"http://8eb704f5.ap.ngrok.io/wechat?nonce=2074270550&openid=oF_4av4GAHDopFRLZ9aukJI9b9-8&signature=bc26e87cb4f848f9baa1b2f332fd9b77d69dbe79&timestamp=1520320071","content-type":"xml","content":"<xml><ToUserName><![CDATA[gh_dbe83f07075e]]></ToUserName>
+<FromUserName><![CDATA[oF_4av4GAHDopFRLZ9aukJI9b9-8]]></FromUserName>
+<CreateTime>1520320071</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[https://h5.ele.me/hongbao/#hardware_id=&is_lucky_group=True&lucky_number=6&track_id=&platform=0&sn=29e9ca0c861e5c2b&theme_id=2257&device_id=]]></Content>
+<MsgId>6529724984825221430</MsgId>
+</xml>"} 
+[2018-03-06 07:07:50] NULL.DEBUG: Server response created: {"content":"<xml><MsgType><![CDATA[text]]></MsgType><Content><![CDATA[{\"https:\\/\\/h5_ele_me\\/hongbao\\/#hardware_id\":\"\",\"is_lucky_group\":\"True\",\"lucky_number\":\"6\",\"track_id\":\"\",\"platform\":\"0\",\"sn\":\"29e9ca0c861e5c2b\",\"theme_id\":\"2257\",\"device_id\":\"\"}]]></Content><ToUserName><![CDATA[oF_4av4GAHDopFRLZ9aukJI9b9-8]]></ToUserName><FromUserName><![CDATA[gh_dbe83f07075e]]></FromUserName><CreateTime>1520320070</CreateTime></xml>"} 
+[2018-03-06 07:09:08] NULL.DEBUG: Request received: {"method":"POST","uri":"http://8eb704f5.ap.ngrok.io/wechat?nonce=162798425&openid=oF_4av4GAHDopFRLZ9aukJI9b9-8&signature=a0de496336bd1b76a586443c31c142e8f128bd4c&timestamp=1520320149","content-type":"xml","content":"<xml><ToUserName><![CDATA[gh_dbe83f07075e]]></ToUserName>
+<FromUserName><![CDATA[oF_4av4GAHDopFRLZ9aukJI9b9-8]]></FromUserName>
+<CreateTime>1520320149</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[https://h5.ele.me/hongbao/#hardware_id=&is_lucky_group=True&lucky_number=6&track_id=&platform=0&sn=29e9ca0c861e5c2b&theme_id=2257&device_id=]]></Content>
+<MsgId>6529725319832670566</MsgId>
+</xml>"} 
+[2018-03-06 07:10:11] NULL.DEBUG: Request received: {"method":"POST","uri":"http://8eb704f5.ap.ngrok.io/wechat?nonce=403420089&openid=oF_4av4GAHDopFRLZ9aukJI9b9-8&signature=06d540df8cf01bc4d8c3cf9d493273da67f4ac13&timestamp=1520320213","content-type":"xml","content":"<xml><ToUserName><![CDATA[gh_dbe83f07075e]]></ToUserName>
+<FromUserName><![CDATA[oF_4av4GAHDopFRLZ9aukJI9b9-8]]></FromUserName>
+<CreateTime>1520320212</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[https://h5.ele.me/hongbao/#hardware_id=&is_lucky_group=True&lucky_number=6&track_id=&platform=0&sn=29e9ca0c861e5c2b&theme_id=2257&device_id=]]></Content>
+<MsgId>6529725590415610248</MsgId>
+</xml>"} 
+[2018-03-06 07:10:22] NULL.DEBUG: Request received: {"method":"POST","uri":"http://8eb704f5.ap.ngrok.io/wechat?nonce=852496435&openid=oF_4av4GAHDopFRLZ9aukJI9b9-8&signature=2f6bfbfeb63bc58827df565fc2168c1dc83f356a&timestamp=1520320223","content-type":"xml","content":"<xml><ToUserName><![CDATA[gh_dbe83f07075e]]></ToUserName>
+<FromUserName><![CDATA[oF_4av4GAHDopFRLZ9aukJI9b9-8]]></FromUserName>
+<CreateTime>1520320212</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[https://h5.ele.me/hongbao/#hardware_id=&is_lucky_group=True&lucky_number=6&track_id=&platform=0&sn=29e9ca0c861e5c2b&theme_id=2257&device_id=]]></Content>
+<MsgId>6529725590415610248</MsgId>
+</xml>"} 
+[2018-03-06 07:11:38] NULL.DEBUG: Request received: {"method":"POST","uri":"http://8eb704f5.ap.ngrok.io/wechat?nonce=281468623&openid=oF_4av4GAHDopFRLZ9aukJI9b9-8&signature=434e90b1a8323646e0605cd0c35ddf8a4f8c0e10&timestamp=1520320299","content-type":"xml","content":"<xml><ToUserName><![CDATA[gh_dbe83f07075e]]></ToUserName>
+<FromUserName><![CDATA[oF_4av4GAHDopFRLZ9aukJI9b9-8]]></FromUserName>
+<CreateTime>1520320299</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[https://h5.ele.me/hongbao/#hardware_id=&is_lucky_group=True&lucky_number=6&track_id=&platform=0&sn=29e9ca0c861e5c2b&theme_id=2257&device_id=]]></Content>
+<MsgId>6529725964077765051</MsgId>
+</xml>"} 
+[2018-03-06 07:12:13] NULL.DEBUG: Request received: {"method":"POST","uri":"http://8eb704f5.ap.ngrok.io/wechat?nonce=507920858&openid=oF_4av4GAHDopFRLZ9aukJI9b9-8&signature=aa1eab3cb4b1edc4c2640dea5b5a560aa744563a&timestamp=1520320334","content-type":"xml","content":"<xml><ToUserName><![CDATA[gh_dbe83f07075e]]></ToUserName>
+<FromUserName><![CDATA[oF_4av4GAHDopFRLZ9aukJI9b9-8]]></FromUserName>
+<CreateTime>1520320334</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[https://h5.ele.me/hongbao/#hardware_id=&is_lucky_group=True&lucky_number=6&track_id=&platform=0&sn=29e9ca0c861e5c2b&theme_id=2257&device_id=]]></Content>
+<MsgId>6529726114401620424</MsgId>
+</xml>"} 
+[2018-03-06 07:12:42] NULL.DEBUG: Request received: {"method":"POST","uri":"http://8eb704f5.ap.ngrok.io/wechat?nonce=1412698393&openid=oF_4av4GAHDopFRLZ9aukJI9b9-8&signature=8d3d60a58a10eec9b07c90d46a6bbe2385fd2b61&timestamp=1520320363","content-type":"xml","content":"<xml><ToUserName><![CDATA[gh_dbe83f07075e]]></ToUserName>
+<FromUserName><![CDATA[oF_4av4GAHDopFRLZ9aukJI9b9-8]]></FromUserName>
+<CreateTime>1520320363</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[https://h5.ele.me/hongbao/#hardware_id=&is_lucky_group=True&lucky_number=6&track_id=&platform=0&sn=29e9ca0c861e5c2b&theme_id=2257&device_id=]]></Content>
+<MsgId>6529726238955672022</MsgId>
+</xml>"} 
+[2018-03-06 07:12:42] NULL.DEBUG: Server response created: {"content":"<xml><MsgType><![CDATA[text]]></MsgType><Content>13899790988</Content><ToUserName><![CDATA[oF_4av4GAHDopFRLZ9aukJI9b9-8]]></ToUserName><FromUserName><![CDATA[gh_dbe83f07075e]]></FromUserName><CreateTime>1520320362</CreateTime></xml>"} 
+[2018-03-06 07:24:28] NULL.DEBUG: Request received: {"method":"POST","uri":"http://8eb704f5.ap.ngrok.io/wechat?nonce=553123461&openid=oF_4av4GAHDopFRLZ9aukJI9b9-8&signature=b38d19c54881761471891fa0bad2913738f4b50a&timestamp=1520321069","content-type":"xml","content":"<xml><ToUserName><![CDATA[gh_dbe83f07075e]]></ToUserName>
+<FromUserName><![CDATA[oF_4av4GAHDopFRLZ9aukJI9b9-8]]></FromUserName>
+<CreateTime>1520321069</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[https://h5.ele.me/hongbao/#hardware_id=&is_lucky_group=True&lucky_number=6&track_id=&platform=0&sn=29e9ca0c861e5c2b&theme_id=2257&device_id=]]></Content>
+<MsgId>6529729271202583501</MsgId>
+</xml>"} 
+[2018-03-06 07:26:08] NULL.DEBUG: Request received: {"method":"POST","uri":"http://8eb704f5.ap.ngrok.io/wechat?nonce=1697032310&openid=oF_4av4GAHDopFRLZ9aukJI9b9-8&signature=5e1354f52eb52274223219097953927df1059ad9&timestamp=1520321170","content-type":"xml","content":"<xml><ToUserName><![CDATA[gh_dbe83f07075e]]></ToUserName>
+<FromUserName><![CDATA[oF_4av4GAHDopFRLZ9aukJI9b9-8]]></FromUserName>
+<CreateTime>1520321169</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[https://h5.ele.me/hongbao/#hardware_id=&is_lucky_group=True&lucky_number=6&track_id=&platform=0&sn=29e9ca0c861e5c2b&theme_id=2257&device_id=]]></Content>
+<MsgId>6529729700699313172</MsgId>
+</xml>"} 
+[2018-03-06 07:27:52] NULL.DEBUG: Request received: {"method":"POST","uri":"http://8eb704f5.ap.ngrok.io/wechat?nonce=633877176&openid=oF_4av4GAHDopFRLZ9aukJI9b9-8&signature=c2c5978da80c0963442ca5b58368034a81119f25&timestamp=1520321273","content-type":"xml","content":"<xml><ToUserName><![CDATA[gh_dbe83f07075e]]></ToUserName>
+<FromUserName><![CDATA[oF_4av4GAHDopFRLZ9aukJI9b9-8]]></FromUserName>
+<CreateTime>1520321273</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[https://h5.ele.me/hongbao/#hardware_id=&is_lucky_group=True&lucky_number=6&track_id=&platform=0&sn=29e9ca0c861e5c2b&theme_id=2257&device_id=]]></Content>
+<MsgId>6529730147375912002</MsgId>
+</xml>"} 
+[2018-03-06 07:28:12] NULL.DEBUG: Request received: {"method":"POST","uri":"http://8eb704f5.ap.ngrok.io/wechat?nonce=1596115969&openid=oF_4av4GAHDopFRLZ9aukJI9b9-8&signature=7ba492093314db6e61cc01e70d6fe98e877edc18&timestamp=1520321293","content-type":"xml","content":"<xml><ToUserName><![CDATA[gh_dbe83f07075e]]></ToUserName>
+<FromUserName><![CDATA[oF_4av4GAHDopFRLZ9aukJI9b9-8]]></FromUserName>
+<CreateTime>1520321293</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[https://h5.ele.me/hongbao/#hardware_id=&is_lucky_group=True&lucky_number=6&track_id=&platform=0&sn=29e9ca0c861e5c2b&theme_id=2257&device_id=]]></Content>
+<MsgId>6529730233275257925</MsgId>
+</xml>"} 
+[2018-03-06 07:28:54] NULL.DEBUG: Request received: {"method":"POST","uri":"http://8eb704f5.ap.ngrok.io/wechat?nonce=600677113&openid=oF_4av4GAHDopFRLZ9aukJI9b9-8&signature=5d4a31efe5381f3db620e502a3ff334e6b7bfb1c&timestamp=1520321335","content-type":"xml","content":"<xml><ToUserName><![CDATA[gh_dbe83f07075e]]></ToUserName>
+<FromUserName><![CDATA[oF_4av4GAHDopFRLZ9aukJI9b9-8]]></FromUserName>
+<CreateTime>1520321335</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[https://h5.ele.me/hongbao/#hardware_id=&is_lucky_group=True&lucky_number=6&track_id=&platform=0&sn=29e9ca0c861e5c2b&theme_id=2257&device_id=]]></Content>
+<MsgId>6529730413663884380</MsgId>
+</xml>"} 
+[2018-03-06 07:31:17] NULL.DEBUG: Request received: {"method":"POST","uri":"http://8eb704f5.ap.ngrok.io/wechat?nonce=804866536&openid=oF_4av4GAHDopFRLZ9aukJI9b9-8&signature=546ba626f6d1e5218a273e7714f5fd25bed05d87&timestamp=1520321478","content-type":"xml","content":"<xml><ToUserName><![CDATA[gh_dbe83f07075e]]></ToUserName>
+<FromUserName><![CDATA[oF_4av4GAHDopFRLZ9aukJI9b9-8]]></FromUserName>
+<CreateTime>1520321478</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[https://h5.ele.me/hongbao/#hardware_id=&is_lucky_group=True&lucky_number=6&track_id=&platform=0&sn=29e9ca0c861e5c2b&theme_id=2257&device_id=]]></Content>
+<MsgId>6529731027844207779</MsgId>
+</xml>"} 
+[2018-03-06 07:41:28] NULL.DEBUG: Request received: {"method":"POST","uri":"http://8eb704f5.ap.ngrok.io/wechat?nonce=1116376555&openid=oF_4av4GAHDopFRLZ9aukJI9b9-8&signature=b37df6d1982864a0c942f49e97017f47532e9888&timestamp=1520322089","content-type":"xml","content":"<xml><ToUserName><![CDATA[gh_dbe83f07075e]]></ToUserName>
+<FromUserName><![CDATA[oF_4av4GAHDopFRLZ9aukJI9b9-8]]></FromUserName>
+<CreateTime>1520322089</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[https://h5.ele.me/hongbao/#hardware_id=&is_lucky_group=True&lucky_number=6&track_id=&platform=0&sn=29e9ca0c861e5c2b&theme_id=2257&device_id=]]></Content>
+<MsgId>6529733652069226034</MsgId>
+</xml>"} 
+[2018-03-06 07:43:03] NULL.DEBUG: Request received: {"method":"POST","uri":"http://8eb704f5.ap.ngrok.io/wechat?nonce=1368328693&openid=oF_4av4GAHDopFRLZ9aukJI9b9-8&signature=6c125c5993538e0ca9ab989ff526ae1d18c84403&timestamp=1520322184","content-type":"xml","content":"<xml><ToUserName><![CDATA[gh_dbe83f07075e]]></ToUserName>
+<FromUserName><![CDATA[oF_4av4GAHDopFRLZ9aukJI9b9-8]]></FromUserName>
+<CreateTime>1520322184</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[https://h5.ele.me/hongbao/#hardware_id=&is_lucky_group=True&lucky_number=6&track_id=&platform=0&sn=29e9ca0c861e5c2b&theme_id=2257&device_id=]]></Content>
+<MsgId>6529734060091119183</MsgId>
+</xml>"} 
+[2018-03-06 07:43:19] NULL.DEBUG: Request received: {"method":"POST","uri":"http://8eb704f5.ap.ngrok.io/wechat?nonce=1267841540&openid=oF_4av4GAHDopFRLZ9aukJI9b9-8&signature=8e81d83310aded0a711a9e78fccd40ba5c780452&timestamp=1520322200","content-type":"xml","content":"<xml><ToUserName><![CDATA[gh_dbe83f07075e]]></ToUserName>
+<FromUserName><![CDATA[oF_4av4GAHDopFRLZ9aukJI9b9-8]]></FromUserName>
+<CreateTime>1520322200</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[https://h5.ele.me/hongbao/#hardware_id=&is_lucky_group=True&lucky_number=6&track_id=&platform=0&sn=29e9ca0c861e5c2b&theme_id=2257&device_id=]]></Content>
+<MsgId>6529734128810595930</MsgId>
+</xml>"} 
+[2018-03-06 07:44:33] NULL.DEBUG: Request received: {"method":"POST","uri":"http://8eb704f5.ap.ngrok.io/wechat?nonce=1774421980&openid=oF_4av4GAHDopFRLZ9aukJI9b9-8&signature=691cedc1cd79d83cbd3833a59e12915a9a10ac4f&timestamp=1520322274","content-type":"xml","content":"<xml><ToUserName><![CDATA[gh_dbe83f07075e]]></ToUserName>
+<FromUserName><![CDATA[oF_4av4GAHDopFRLZ9aukJI9b9-8]]></FromUserName>
+<CreateTime>1520322274</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[https://h5.ele.me/hongbao/#hardware_id=&is_lucky_group=True&lucky_number=6&track_id=&platform=0&sn=29e9ca0c861e5c2b&theme_id=2257&device_id=]]></Content>
+<MsgId>6529734446638175897</MsgId>
+</xml>"} 
+[2018-03-06 07:48:55] NULL.DEBUG: Request received: {"method":"POST","uri":"http://8eb704f5.ap.ngrok.io/wechat?nonce=2022070412&openid=oF_4av4GAHDopFRLZ9aukJI9b9-8&signature=4e5690f17a89512a827f401dac2c6bac6dea5f91&timestamp=1520322536","content-type":"xml","content":"<xml><ToUserName><![CDATA[gh_dbe83f07075e]]></ToUserName>
+<FromUserName><![CDATA[oF_4av4GAHDopFRLZ9aukJI9b9-8]]></FromUserName>
+<CreateTime>1520322536</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[https://h5.ele.me/hongbao/#hardware_id=&is_lucky_group=True&lucky_number=6&track_id=&platform=0&sn=29e9ca0c861e5c2b&theme_id=2257&device_id=]]></Content>
+<MsgId>6529735571919607631</MsgId>
+</xml>"} 
+[2018-03-06 07:50:54] NULL.DEBUG: Request received: {"method":"POST","uri":"http://8eb704f5.ap.ngrok.io/wechat?nonce=484104790&openid=oF_4av4GAHDopFRLZ9aukJI9b9-8&signature=f1eb3b44765ff06e95104dcf65b9d295721dffaf&timestamp=1520322655","content-type":"xml","content":"<xml><ToUserName><![CDATA[gh_dbe83f07075e]]></ToUserName>
+<FromUserName><![CDATA[oF_4av4GAHDopFRLZ9aukJI9b9-8]]></FromUserName>
+<CreateTime>1520322655</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[https://h5.ele.me/hongbao/#hardware_id=&is_lucky_group=True&lucky_number=6&track_id=&platform=0&sn=29e9ca0c861e5c2b&theme_id=2257&device_id=]]></Content>
+<MsgId>6529736083020715908</MsgId>
+</xml>"} 
+[2018-03-06 07:50:55] NULL.DEBUG: Server response created: {"content":"<xml><MsgType><![CDATA[text]]></MsgType><Content><![CDATA[errors领取红包失败]]></Content><ToUserName><![CDATA[oF_4av4GAHDopFRLZ9aukJI9b9-8]]></ToUserName><FromUserName><![CDATA[gh_dbe83f07075e]]></FromUserName><CreateTime>1520322655</CreateTime></xml>"} 
+[2018-03-06 07:51:25] NULL.DEBUG: Request received: {"method":"POST","uri":"http://8eb704f5.ap.ngrok.io/wechat?nonce=1048517614&openid=oF_4av4GAHDopFRLZ9aukJI9b9-8&signature=29d5d1e15d17f46bd5cc98afedc418be9a9cb692&timestamp=1520322686","content-type":"xml","content":"<xml><ToUserName><![CDATA[gh_dbe83f07075e]]></ToUserName>
+<FromUserName><![CDATA[oF_4av4GAHDopFRLZ9aukJI9b9-8]]></FromUserName>
+<CreateTime>1520322686</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[https://h5.ele.me/hongbao/#hardware_id=&is_lucky_group=True&lucky_number=6&track_id=&platform=0&sn=29e9ca0c861e5c2b&theme_id=2257&device_id=]]></Content>
+<MsgId>6529736216164702093</MsgId>
+</xml>"} 
+[2018-03-06 07:51:26] NULL.DEBUG: Server response created: {"content":"<xml><MsgType><![CDATA[text]]></MsgType><Content><![CDATA[errorsnull]]></Content><ToUserName><![CDATA[oF_4av4GAHDopFRLZ9aukJI9b9-8]]></ToUserName><FromUserName><![CDATA[gh_dbe83f07075e]]></FromUserName><CreateTime>1520322686</CreateTime></xml>"} 
+[2018-03-06 07:53:30] NULL.DEBUG: Request received: {"method":"POST","uri":"http://8eb704f5.ap.ngrok.io/wechat?nonce=1535565366&openid=oF_4av4GAHDopFRLZ9aukJI9b9-8&signature=a5a4065230f173d2170f811ef3a61fec9ce8a208&timestamp=1520322811","content-type":"xml","content":"<xml><ToUserName><![CDATA[gh_dbe83f07075e]]></ToUserName>
+<FromUserName><![CDATA[oF_4av4GAHDopFRLZ9aukJI9b9-8]]></FromUserName>
+<CreateTime>1520322810</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[https://h5.ele.me/hongbao/#hardware_id=&is_lucky_group=True&lucky_number=5&track_id=&platform=0&sn=29e984b7711e0cb4&theme_id=2249&device_id=]]></Content>
+<MsgId>6529736748740646832</MsgId>
+</xml>"} 
+[2018-03-06 07:53:30] NULL.DEBUG: Server response created: {"content":"<xml><MsgType><![CDATA[text]]></MsgType><Content><![CDATA[errors领取红包失败]]></Content><ToUserName><![CDATA[oF_4av4GAHDopFRLZ9aukJI9b9-8]]></ToUserName><FromUserName><![CDATA[gh_dbe83f07075e]]></FromUserName><CreateTime>1520322810</CreateTime></xml>"} 
+[2018-03-06 07:54:12] NULL.DEBUG: Request received: {"method":"POST","uri":"http://8eb704f5.ap.ngrok.io/wechat?nonce=1326733901&openid=oF_4av4GAHDopFRLZ9aukJI9b9-8&signature=0b9e719e12159073c5839e07710c8d7106f9b666&timestamp=1520322854","content-type":"xml","content":"<xml><ToUserName><![CDATA[gh_dbe83f07075e]]></ToUserName>
+<FromUserName><![CDATA[oF_4av4GAHDopFRLZ9aukJI9b9-8]]></FromUserName>
+<CreateTime>1520322853</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[https://h5.ele.me/hongbao/#hardware_id=&is_lucky_group=True&lucky_number=5&track_id=&platform=0&sn=29e984b7711e0cb4&theme_id=2249&device_id=]]></Content>
+<MsgId>6529736933424240590</MsgId>
+</xml>"} 
+[2018-03-06 07:54:12] NULL.DEBUG: Server response created: {"content":"<xml><MsgType><![CDATA[text]]></MsgType><Content><![CDATA[errors\"\"]]></Content><ToUserName><![CDATA[oF_4av4GAHDopFRLZ9aukJI9b9-8]]></ToUserName><FromUserName><![CDATA[gh_dbe83f07075e]]></FromUserName><CreateTime>1520322852</CreateTime></xml>"} 
+[2018-03-06 07:54:28] NULL.DEBUG: Request received: {"method":"POST","uri":"http://8eb704f5.ap.ngrok.io/wechat?nonce=1225890605&openid=oF_4av4GAHDopFRLZ9aukJI9b9-8&signature=57adea831fa6bf892c35bd68bb865f7edb0ab1ee&timestamp=1520322870","content-type":"xml","content":"<xml><ToUserName><![CDATA[gh_dbe83f07075e]]></ToUserName>
+<FromUserName><![CDATA[oF_4av4GAHDopFRLZ9aukJI9b9-8]]></FromUserName>
+<CreateTime>1520322870</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[https://h5.ele.me/hongbao/#hardware_id=&is_lucky_group=True&lucky_number=5&track_id=&platform=0&sn=29e984b7711e0cb4&theme_id=2249&device_id=]]></Content>
+<MsgId>6529737006438684633</MsgId>
+</xml>"} 
+[2018-03-06 07:54:28] NULL.DEBUG: Server response created: {"content":"<xml><MsgType><![CDATA[text]]></MsgType><Content><![CDATA[errors领取红包失败]]></Content><ToUserName><![CDATA[oF_4av4GAHDopFRLZ9aukJI9b9-8]]></ToUserName><FromUserName><![CDATA[gh_dbe83f07075e]]></FromUserName><CreateTime>1520322868</CreateTime></xml>"} 
+[2018-03-06 07:56:00] NULL.DEBUG: Request received: {"method":"POST","uri":"http://8eb704f5.ap.ngrok.io/wechat?nonce=2116676054&openid=oF_4av4GAHDopFRLZ9aukJI9b9-8&signature=1bee78405bdc3b1d86bcf9efcbd7f68ea5f0f587&timestamp=1520322961","content-type":"xml","content":"<xml><ToUserName><![CDATA[gh_dbe83f07075e]]></ToUserName>
+<FromUserName><![CDATA[oF_4av4GAHDopFRLZ9aukJI9b9-8]]></FromUserName>
+<CreateTime>1520322961</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[https://h5.ele.me/hongbao/#hardware_id=&is_lucky_group=True&lucky_number=5&track_id=&platform=0&sn=29e984b7711e0cb4&theme_id=2249&device_id=]]></Content>
+<MsgId>6529737397280708623</MsgId>
+</xml>"} 
+[2018-03-06 07:56:00] NULL.DEBUG: Server response created: {"content":"<xml><MsgType><![CDATA[text]]></MsgType><Content><![CDATA[errors领取红包失败]]></Content><ToUserName><![CDATA[oF_4av4GAHDopFRLZ9aukJI9b9-8]]></ToUserName><FromUserName><![CDATA[gh_dbe83f07075e]]></FromUserName><CreateTime>1520322960</CreateTime></xml>"} 
+[2018-03-06 07:57:17] NULL.DEBUG: Request received: {"method":"POST","uri":"http://8eb704f5.ap.ngrok.io/wechat?nonce=1277182706&openid=oF_4av4GAHDopFRLZ9aukJI9b9-8&signature=a1ba4e82c2af057fe5718d9f1484e37f876e8848&timestamp=1520323038","content-type":"xml","content":"<xml><ToUserName><![CDATA[gh_dbe83f07075e]]></ToUserName>
+<FromUserName><![CDATA[oF_4av4GAHDopFRLZ9aukJI9b9-8]]></FromUserName>
+<CreateTime>1520323038</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[https://h5.ele.me/hongbao/#hardware_id=&is_lucky_group=True&lucky_number=5&track_id=&platform=0&sn=29e984b7711e0cb4&theme_id=2249&device_id=]]></Content>
+<MsgId>6529737727993190460</MsgId>
+</xml>"} 
+[2018-03-06 07:57:17] NULL.DEBUG: Server response created: {"content":"<xml><MsgType><![CDATA[text]]></MsgType><Content><![CDATA[errorsnull]]></Content><ToUserName><![CDATA[oF_4av4GAHDopFRLZ9aukJI9b9-8]]></ToUserName><FromUserName><![CDATA[gh_dbe83f07075e]]></FromUserName><CreateTime>1520323037</CreateTime></xml>"} 
+[2018-03-06 07:58:20] NULL.DEBUG: Request received: {"method":"POST","uri":"http://8eb704f5.ap.ngrok.io/wechat?nonce=1647328048&openid=oF_4av4GAHDopFRLZ9aukJI9b9-8&signature=0fd9b8096c6b2514c3c564656416587970880261&timestamp=1520323101","content-type":"xml","content":"<xml><ToUserName><![CDATA[gh_dbe83f07075e]]></ToUserName>
+<FromUserName><![CDATA[oF_4av4GAHDopFRLZ9aukJI9b9-8]]></FromUserName>
+<CreateTime>1520323101</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[https://h5.ele.me/hongbao/#hardware_id=&is_lucky_group=True&lucky_number=5&track_id=&platform=0&sn=29e984b7711e0cb4&theme_id=2249&device_id=]]></Content>
+<MsgId>6529737998576130151</MsgId>
+</xml>"} 
+[2018-03-06 07:58:20] NULL.DEBUG: Server response created: {"content":"<xml><MsgType><![CDATA[text]]></MsgType><Content><![CDATA[errorsfalse]]></Content><ToUserName><![CDATA[oF_4av4GAHDopFRLZ9aukJI9b9-8]]></ToUserName><FromUserName><![CDATA[gh_dbe83f07075e]]></FromUserName><CreateTime>1520323100</CreateTime></xml>"} 
+[2018-03-06 07:58:43] NULL.DEBUG: Request received: {"method":"POST","uri":"http://8eb704f5.ap.ngrok.io/wechat?nonce=1001656021&openid=oF_4av4GAHDopFRLZ9aukJI9b9-8&signature=a582b370d36d41f9c9116a2ff5a8eb927ae31e18&timestamp=1520323124","content-type":"xml","content":"<xml><ToUserName><![CDATA[gh_dbe83f07075e]]></ToUserName>
+<FromUserName><![CDATA[oF_4av4GAHDopFRLZ9aukJI9b9-8]]></FromUserName>
+<CreateTime>1520323124</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[https://h5.ele.me/hongbao/#hardware_id=&is_lucky_group=True&lucky_number=5&track_id=&platform=0&sn=29e984b7711e0cb4&theme_id=2249&device_id=]]></Content>
+<MsgId>6529738097360377974</MsgId>
+</xml>"} 
+[2018-03-06 07:58:43] NULL.DEBUG: Server response created: {"content":"<xml><MsgType><![CDATA[text]]></MsgType><Content><![CDATA[errors]]></Content><ToUserName><![CDATA[oF_4av4GAHDopFRLZ9aukJI9b9-8]]></ToUserName><FromUserName><![CDATA[gh_dbe83f07075e]]></FromUserName><CreateTime>1520323123</CreateTime></xml>"} 
+[2018-03-06 08:01:51] NULL.DEBUG: Request received: {"method":"POST","uri":"http://8eb704f5.ap.ngrok.io/wechat?nonce=587469692&openid=oF_4av4GAHDopFRLZ9aukJI9b9-8&signature=2d7ea8c153c1724bd48dbbdbed635d08e9394432&timestamp=1520323312","content-type":"xml","content":"<xml><ToUserName><![CDATA[gh_dbe83f07075e]]></ToUserName>
+<FromUserName><![CDATA[oF_4av4GAHDopFRLZ9aukJI9b9-8]]></FromUserName>
+<CreateTime>1520323312</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[https://h5.ele.me/hongbao/#hardware_id=&is_lucky_group=True&lucky_number=5&track_id=&platform=0&sn=29e984b7711e0cb4&theme_id=2249&device_id=]]></Content>
+<MsgId>6529738904814229724</MsgId>
+</xml>"} 
+[2018-03-06 08:01:51] NULL.DEBUG: Server response created: {"content":"<xml><MsgType><![CDATA[text]]></MsgType><Content><![CDATA[errors领取红包失败]]></Content><ToUserName><![CDATA[oF_4av4GAHDopFRLZ9aukJI9b9-8]]></ToUserName><FromUserName><![CDATA[gh_dbe83f07075e]]></FromUserName><CreateTime>1520323311</CreateTime></xml>"} 
+[2018-03-06 08:03:05] NULL.DEBUG: Request received: {"method":"POST","uri":"http://8eb704f5.ap.ngrok.io/wechat?nonce=1552851303&openid=oF_4av4GAHDopFRLZ9aukJI9b9-8&signature=e7572ae932df22a9b855fc6df24fe792eb698522&timestamp=1520323386","content-type":"xml","content":"<xml><ToUserName><![CDATA[gh_dbe83f07075e]]></ToUserName>
+<FromUserName><![CDATA[oF_4av4GAHDopFRLZ9aukJI9b9-8]]></FromUserName>
+<CreateTime>1520323386</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[https://h5.ele.me/hongbao/#hardware_id=&is_lucky_group=True&lucky_number=5&track_id=&platform=0&sn=29e984b7711e0cb4&theme_id=2249&device_id=]]></Content>
+<MsgId>6529739222641809661</MsgId>
+</xml>"} 
+[2018-03-06 08:03:06] NULL.DEBUG: Server response created: {"content":"<xml><MsgType><![CDATA[text]]></MsgType><Content><![CDATA[errors领取红包失败]]></Content><ToUserName><![CDATA[oF_4av4GAHDopFRLZ9aukJI9b9-8]]></ToUserName><FromUserName><![CDATA[gh_dbe83f07075e]]></FromUserName><CreateTime>1520323385</CreateTime></xml>"} 
+[2018-03-06 08:04:13] NULL.DEBUG: Request received: {"method":"POST","uri":"http://8eb704f5.ap.ngrok.io/wechat?nonce=948861441&openid=oF_4av4GAHDopFRLZ9aukJI9b9-8&signature=8d7fa49e3da04f46a023ed381829c63257f893c7&timestamp=1520323454","content-type":"xml","content":"<xml><ToUserName><![CDATA[gh_dbe83f07075e]]></ToUserName>
+<FromUserName><![CDATA[oF_4av4GAHDopFRLZ9aukJI9b9-8]]></FromUserName>
+<CreateTime>1520323453</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[https://h5.ele.me/hongbao/#hardware_id=&is_lucky_group=True&lucky_number=5&track_id=&platform=0&sn=29e984b7711e0cb4&theme_id=2249&device_id=]]></Content>
+<MsgId>6529739510404618532</MsgId>
+</xml>"} 
+[2018-03-06 08:04:13] NULL.DEBUG: Server response created: {"content":"<xml><MsgType><![CDATA[text]]></MsgType><Content><![CDATA[errors领取红包失败]]></Content><ToUserName><![CDATA[oF_4av4GAHDopFRLZ9aukJI9b9-8]]></ToUserName><FromUserName><![CDATA[gh_dbe83f07075e]]></FromUserName><CreateTime>1520323453</CreateTime></xml>"} 
+[2018-03-06 08:04:44] NULL.DEBUG: Request received: {"method":"POST","uri":"http://8eb704f5.ap.ngrok.io/wechat?nonce=1448704119&openid=oF_4av4GAHDopFRLZ9aukJI9b9-8&signature=c10881bb8d39c4105faba7ac7ff96c1863e40c85&timestamp=1520323485","content-type":"xml","content":"<xml><ToUserName><![CDATA[gh_dbe83f07075e]]></ToUserName>
+<FromUserName><![CDATA[oF_4av4GAHDopFRLZ9aukJI9b9-8]]></FromUserName>
+<CreateTime>1520323485</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[https://h5.ele.me/hongbao/#hardware_id=&is_lucky_group=True&lucky_number=5&track_id=&platform=0&sn=29e984b7711e0cb4&theme_id=2249&device_id=]]></Content>
+<MsgId>6529739647843572023</MsgId>
+</xml>"} 
+[2018-03-06 08:04:44] NULL.DEBUG: Server response created: {"content":"<xml><MsgType><![CDATA[text]]></MsgType><Content><![CDATA[errors]]></Content><ToUserName><![CDATA[oF_4av4GAHDopFRLZ9aukJI9b9-8]]></ToUserName><FromUserName><![CDATA[gh_dbe83f07075e]]></FromUserName><CreateTime>1520323484</CreateTime></xml>"} 
+[2018-03-06 08:06:02] NULL.DEBUG: Request received: {"method":"POST","uri":"http://8eb704f5.ap.ngrok.io/wechat?nonce=612595025&openid=oF_4av4GAHDopFRLZ9aukJI9b9-8&signature=115f6aaabfe9913a7ebbf1505223ce966b2f3f38&timestamp=1520323563","content-type":"xml","content":"<xml><ToUserName><![CDATA[gh_dbe83f07075e]]></ToUserName>
+<FromUserName><![CDATA[oF_4av4GAHDopFRLZ9aukJI9b9-8]]></FromUserName>
+<CreateTime>1520323563</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[https://h5.ele.me/hongbao/#hardware_id=&is_lucky_group=True&lucky_number=5&track_id=&platform=0&sn=29e984b7711e0cb4&theme_id=2249&device_id=]]></Content>
+<MsgId>6529739982851021172</MsgId>
+</xml>"} 
+[2018-03-06 08:06:02] NULL.DEBUG: Server response created: {"content":"<xml><MsgType><![CDATA[text]]></MsgType><Content><![CDATA[errors]]></Content><ToUserName><![CDATA[oF_4av4GAHDopFRLZ9aukJI9b9-8]]></ToUserName><FromUserName><![CDATA[gh_dbe83f07075e]]></FromUserName><CreateTime>1520323562</CreateTime></xml>"} 
+[2018-03-06 08:06:37] NULL.DEBUG: Request received: {"method":"POST","uri":"http://8eb704f5.ap.ngrok.io/wechat?nonce=485237939&openid=oF_4av4GAHDopFRLZ9aukJI9b9-8&signature=f883c2e0017e4ba8334a42dd5f4a9fc486404a79&timestamp=1520323598","content-type":"xml","content":"<xml><ToUserName><![CDATA[gh_dbe83f07075e]]></ToUserName>
+<FromUserName><![CDATA[oF_4av4GAHDopFRLZ9aukJI9b9-8]]></FromUserName>
+<CreateTime>1520323598</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[https://h5.ele.me/hongbao/#hardware_id=&is_lucky_group=True&lucky_number=5&track_id=&platform=0&sn=29e984b7711e0cb4&theme_id=2249&device_id=]]></Content>
+<MsgId>6529740133174876542</MsgId>
+</xml>"} 
+[2018-03-06 08:06:37] NULL.DEBUG: Server response created: {"content":"<xml><MsgType><![CDATA[text]]></MsgType><Content><![CDATA[errors2]]></Content><ToUserName><![CDATA[oF_4av4GAHDopFRLZ9aukJI9b9-8]]></ToUserName><FromUserName><![CDATA[gh_dbe83f07075e]]></FromUserName><CreateTime>1520323597</CreateTime></xml>"} 
+[2018-03-06 08:06:58] NULL.DEBUG: Request received: {"method":"POST","uri":"http://8eb704f5.ap.ngrok.io/wechat?nonce=860272095&openid=oF_4av4GAHDopFRLZ9aukJI9b9-8&signature=5f7ac617c045fa03632d638ca17d471359172c2c&timestamp=1520323619","content-type":"xml","content":"<xml><ToUserName><![CDATA[gh_dbe83f07075e]]></ToUserName>
+<FromUserName><![CDATA[oF_4av4GAHDopFRLZ9aukJI9b9-8]]></FromUserName>
+<CreateTime>1520323619</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[https://h5.ele.me/hongbao/#hardware_id=&is_lucky_group=True&lucky_number=5&track_id=&platform=0&sn=29e984b7711e0cb4&theme_id=2249&device_id=]]></Content>
+<MsgId>6529740223369189765</MsgId>
+</xml>"} 
+[2018-03-06 08:06:58] NULL.DEBUG: Server response created: {"content":"<xml><MsgType><![CDATA[text]]></MsgType><Content><![CDATA[errors2领取红包失败]]></Content><ToUserName><![CDATA[oF_4av4GAHDopFRLZ9aukJI9b9-8]]></ToUserName><FromUserName><![CDATA[gh_dbe83f07075e]]></FromUserName><CreateTime>1520323618</CreateTime></xml>"} 
+[2018-03-06 08:15:21] NULL.DEBUG: Request received: {"method":"POST","uri":"http://8eb704f5.ap.ngrok.io/wechat?nonce=1244283660&openid=oF_4av4GAHDopFRLZ9aukJI9b9-8&signature=55cb250f13df0ccbd8c0a685392a10748c3da96b&timestamp=1520324122","content-type":"xml","content":"<xml><ToUserName><![CDATA[gh_dbe83f07075e]]></ToUserName>
+<FromUserName><![CDATA[oF_4av4GAHDopFRLZ9aukJI9b9-8]]></FromUserName>
+<CreateTime>1520324122</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[https://h5.ele.me/hongbao/#hardware_id=&is_lucky_group=True&lucky_number=10&track_id=&platform=0&sn=29e9c45bf02bc4e4&theme_id=2257&device_id=]]></Content>
+<MsgId>6529742383737739878</MsgId>
+</xml>"} 
+[2018-03-06 08:15:21] NULL.DEBUG: Server response created: {"content":"<xml><MsgType><![CDATA[text]]></MsgType><Content><![CDATA[errors2领取红包失败]]></Content><ToUserName><![CDATA[oF_4av4GAHDopFRLZ9aukJI9b9-8]]></ToUserName><FromUserName><![CDATA[gh_dbe83f07075e]]></FromUserName><CreateTime>1520324121</CreateTime></xml>"} 
+[2018-03-06 08:19:00] NULL.DEBUG: Request received: {"method":"POST","uri":"http://8eb704f5.ap.ngrok.io/wechat?nonce=462132149&openid=oF_4av4GAHDopFRLZ9aukJI9b9-8&signature=ba360ea456490fbd3dfbfad3b49d8bbbea67d99d&timestamp=1520324341","content-type":"xml","content":"<xml><ToUserName><![CDATA[gh_dbe83f07075e]]></ToUserName>
+<FromUserName><![CDATA[oF_4av4GAHDopFRLZ9aukJI9b9-8]]></FromUserName>
+<CreateTime>1520324341</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[18553359039]]></Content>
+<MsgId>6529743324335577814</MsgId>
+</xml>"} 
+[2018-03-06 08:19:00] NULL.DEBUG: Server response created: {"content":"<xml><MsgType><![CDATA[text]]></MsgType><Content><![CDATA[修改成功]]></Content><ToUserName><![CDATA[oF_4av4GAHDopFRLZ9aukJI9b9-8]]></ToUserName><FromUserName><![CDATA[gh_dbe83f07075e]]></FromUserName><CreateTime>1520324340</CreateTime></xml>"} 
+[2018-03-06 08:21:01] NULL.DEBUG: Request received: {"method":"POST","uri":"http://8eb704f5.ap.ngrok.io/wechat?nonce=184322215&openid=oF_4av4GAHDopFRLZ9aukJI9b9-8&signature=43b877bce75ad67051603f0e974fb061dc7afe28&timestamp=1520324462","content-type":"xml","content":"<xml><ToUserName><![CDATA[gh_dbe83f07075e]]></ToUserName>
+<FromUserName><![CDATA[oF_4av4GAHDopFRLZ9aukJI9b9-8]]></FromUserName>
+<CreateTime>1520324462</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[https://h5.ele.me/hongbao/#hardware_id=&is_lucky_group=True&lucky_number=10&track_id=&platform=0&sn=29e9a27ec39e0cfc&theme_id=2233&device_id=]]></Content>
+<MsgId>6529743844026620672</MsgId>
+</xml>"} 
+[2018-03-06 08:21:02] NULL.DEBUG: Server response created: {"content":"<xml><MsgType><![CDATA[text]]></MsgType><Content><![CDATA[errors2领取红包失败]]></Content><ToUserName><![CDATA[oF_4av4GAHDopFRLZ9aukJI9b9-8]]></ToUserName><FromUserName><![CDATA[gh_dbe83f07075e]]></FromUserName><CreateTime>1520324462</CreateTime></xml>"} 
+[2018-03-06 08:21:42] NULL.DEBUG: Request received: {"method":"POST","uri":"http://8eb704f5.ap.ngrok.io/wechat?nonce=1762426180&openid=oF_4av4GAHDopFRLZ9aukJI9b9-8&signature=91b97613e2de44eab583284e9fc92b09f233b51d&timestamp=1520324503","content-type":"xml","content":"<xml><ToUserName><![CDATA[gh_dbe83f07075e]]></ToUserName>
+<FromUserName><![CDATA[oF_4av4GAHDopFRLZ9aukJI9b9-8]]></FromUserName>
+<CreateTime>1520324503</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[https://h5.ele.me/hongbao/#hardware_id=&is_lucky_group=True&lucky_number=10&track_id=&platform=0&sn=29e9a27ec39e0cfc&theme_id=2233&device_id=]]></Content>
+<MsgId>6529744020120279820</MsgId>
+</xml>"} 
+[2018-03-06 08:21:42] NULL.DEBUG: Server response created: {"content":"<xml><MsgType><![CDATA[text]]></MsgType><Content><![CDATA[errors2领取红包失败]]></Content><ToUserName><![CDATA[oF_4av4GAHDopFRLZ9aukJI9b9-8]]></ToUserName><FromUserName><![CDATA[gh_dbe83f07075e]]></FromUserName><CreateTime>1520324502</CreateTime></xml>"} 
+[2018-03-06 08:23:55] NULL.DEBUG: Request received: {"method":"POST","uri":"http://8eb704f5.ap.ngrok.io/wechat?nonce=147430165&openid=oF_4av4GAHDopFRLZ9aukJI9b9-8&signature=b8a42222b5806bd7166bd23113696fabdec4fe46&timestamp=1520324636","content-type":"xml","content":"<xml><ToUserName><![CDATA[gh_dbe83f07075e]]></ToUserName>
+<FromUserName><![CDATA[oF_4av4GAHDopFRLZ9aukJI9b9-8]]></FromUserName>
+<CreateTime>1520324636</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[https://h5.ele.me/hongbao/#hardware_id=&is_lucky_group=True&lucky_number=10&track_id=&platform=0&sn=29e9a27ec39e0cfc&theme_id=2233&device_id=]]></Content>
+<MsgId>6529744591350930231</MsgId>
+</xml>"} 
+[2018-03-06 08:25:18] NULL.DEBUG: Request received: {"method":"POST","uri":"http://8eb704f5.ap.ngrok.io/wechat?nonce=2029502138&openid=oF_4av4GAHDopFRLZ9aukJI9b9-8&signature=92d8cef7ce65d4e4abd0de64af58af22dc4f2f19&timestamp=1520324719","content-type":"xml","content":"<xml><ToUserName><![CDATA[gh_dbe83f07075e]]></ToUserName>
+<FromUserName><![CDATA[oF_4av4GAHDopFRLZ9aukJI9b9-8]]></FromUserName>
+<CreateTime>1520324719</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[https://h5.ele.me/hongbao/#hardware_id=&is_lucky_group=True&lucky_number=10&track_id=&platform=0&sn=29e9a27ec39e0cfc&theme_id=2233&device_id=]]></Content>
+<MsgId>6529744947833215827</MsgId>
+</xml>"} 
+[2018-03-06 08:25:18] NULL.DEBUG: Server response created: {"content":"<xml><MsgType><![CDATA[text]]></MsgType><Content><![CDATA[errors2领取红包失败]]></Content><ToUserName><![CDATA[oF_4av4GAHDopFRLZ9aukJI9b9-8]]></ToUserName><FromUserName><![CDATA[gh_dbe83f07075e]]></FromUserName><CreateTime>1520324718</CreateTime></xml>"} 
+[2018-03-06 08:26:00] NULL.DEBUG: Request received: {"method":"POST","uri":"http://8eb704f5.ap.ngrok.io/wechat?nonce=1064250589&openid=oF_4av4GAHDopFRLZ9aukJI9b9-8&signature=a93663df91d3d847aa3c1ad325376e3f9e2e5ff8&timestamp=1520324760","content-type":"xml","content":"<xml><ToUserName><![CDATA[gh_dbe83f07075e]]></ToUserName>
+<FromUserName><![CDATA[oF_4av4GAHDopFRLZ9aukJI9b9-8]]></FromUserName>
+<CreateTime>1520324760</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[https://h5.ele.me/hongbao/#hardware_id=&is_lucky_group=True&lucky_number=10&track_id=&platform=0&sn=29e9a27ec39e0cfc&theme_id=2233&device_id=]]></Content>
+<MsgId>6529745123926874979</MsgId>
+</xml>"} 
+[2018-03-06 08:26:00] NULL.DEBUG: Server response created: {"content":"<xml><MsgType><![CDATA[text]]></MsgType><Content><![CDATA[errors2领取红包失败]]></Content><ToUserName><![CDATA[oF_4av4GAHDopFRLZ9aukJI9b9-8]]></ToUserName><FromUserName><![CDATA[gh_dbe83f07075e]]></FromUserName><CreateTime>1520324760</CreateTime></xml>"} 
+[2018-03-06 08:26:30] NULL.DEBUG: Request received: {"method":"POST","uri":"http://8eb704f5.ap.ngrok.io/wechat?nonce=378984136&openid=oF_4av4GAHDopFRLZ9aukJI9b9-8&signature=538fc578c9bf8177987fb6fd6847755da473df77&timestamp=1520324791","content-type":"xml","content":"<xml><ToUserName><![CDATA[gh_dbe83f07075e]]></ToUserName>
+<FromUserName><![CDATA[oF_4av4GAHDopFRLZ9aukJI9b9-8]]></FromUserName>
+<CreateTime>1520324791</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[https://h5.ele.me/hongbao/#hardware_id=&is_lucky_group=True&lucky_number=10&track_id=&platform=0&sn=29e9a27ec39e0cfc&theme_id=2233&device_id=]]></Content>
+<MsgId>6529745257070861172</MsgId>
+</xml>"} 
+[2018-03-06 08:26:30] NULL.DEBUG: Server response created: {"content":"<xml><MsgType><![CDATA[text]]></MsgType><Content><![CDATA[errors2领取红包失败]]></Content><ToUserName><![CDATA[oF_4av4GAHDopFRLZ9aukJI9b9-8]]></ToUserName><FromUserName><![CDATA[gh_dbe83f07075e]]></FromUserName><CreateTime>1520324790</CreateTime></xml>"} 
+[2018-03-06 08:27:47] NULL.DEBUG: Request received: {"method":"POST","uri":"http://8eb704f5.ap.ngrok.io/wechat?nonce=160941867&openid=oF_4av4GAHDopFRLZ9aukJI9b9-8&signature=3a6ddef686c18cba55885a9c79d5c88b4a1d7688&timestamp=1520324869","content-type":"xml","content":"<xml><ToUserName><![CDATA[gh_dbe83f07075e]]></ToUserName>
+<FromUserName><![CDATA[oF_4av4GAHDopFRLZ9aukJI9b9-8]]></FromUserName>
+<CreateTime>1520324868</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[https://h5.ele.me/hongbao/#hardware_id=&is_lucky_group=True&lucky_number=10&track_id=&platform=0&sn=29e9a27ec39e0cfc&theme_id=2233&device_id=]]></Content>
+<MsgId>6529745587783342985</MsgId>
+</xml>"} 
+[2018-03-06 08:27:47] NULL.DEBUG: Server response created: {"content":"<xml><MsgType><![CDATA[text]]></MsgType><Content><![CDATA[errors2领取红包失败]]></Content><ToUserName><![CDATA[oF_4av4GAHDopFRLZ9aukJI9b9-8]]></ToUserName><FromUserName><![CDATA[gh_dbe83f07075e]]></FromUserName><CreateTime>1520324867</CreateTime></xml>"} 
+[2018-03-06 08:29:01] NULL.DEBUG: Request received: {"method":"POST","uri":"http://8eb704f5.ap.ngrok.io/wechat?nonce=1314374637&openid=oF_4av4GAHDopFRLZ9aukJI9b9-8&signature=b47c1119b51792ff3635cd9e17389d0aea217cc5&timestamp=1520324941","content-type":"xml","content":"<xml><ToUserName><![CDATA[gh_dbe83f07075e]]></ToUserName>
+<FromUserName><![CDATA[oF_4av4GAHDopFRLZ9aukJI9b9-8]]></FromUserName>
+<CreateTime>1520324941</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[https://h5.ele.me/hongbao/#hardware_id=&is_lucky_group=True&lucky_number=10&track_id=&platform=0&sn=29e9a27ec39e0cfc&theme_id=2233&device_id=]]></Content>
+<MsgId>6529745901315955622</MsgId>
+</xml>"} 
+[2018-03-06 08:29:01] NULL.DEBUG: Server response created: {"content":"<xml><MsgType><![CDATA[text]]></MsgType><Content><![CDATA[errors2领取红包失败]]></Content><ToUserName><![CDATA[oF_4av4GAHDopFRLZ9aukJI9b9-8]]></ToUserName><FromUserName><![CDATA[gh_dbe83f07075e]]></FromUserName><CreateTime>1520324941</CreateTime></xml>"} 
+[2018-03-06 08:29:55] NULL.DEBUG: Request received: {"method":"POST","uri":"http://8eb704f5.ap.ngrok.io/wechat?nonce=560315203&openid=oF_4av4GAHDopFRLZ9aukJI9b9-8&signature=3fcc996b643a1e4e8ad9a5b38d569af70d6c611d&timestamp=1520324996","content-type":"xml","content":"<xml><ToUserName><![CDATA[gh_dbe83f07075e]]></ToUserName>
+<FromUserName><![CDATA[oF_4av4GAHDopFRLZ9aukJI9b9-8]]></FromUserName>
+<CreateTime>1520324996</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[https://h5.ele.me/hongbao/#hardware_id=&is_lucky_group=True&lucky_number=10&track_id=&platform=0&sn=29e9a27ec39e0cfc&theme_id=2233&device_id=]]></Content>
+<MsgId>6529746137539156925</MsgId>
+</xml>"} 
+[2018-03-06 08:29:55] NULL.DEBUG: Server response created: {"content":"<xml><MsgType><![CDATA[text]]></MsgType><Content><![CDATA[errors2领取红包失败]]></Content><ToUserName><![CDATA[oF_4av4GAHDopFRLZ9aukJI9b9-8]]></ToUserName><FromUserName><![CDATA[gh_dbe83f07075e]]></FromUserName><CreateTime>1520324995</CreateTime></xml>"} 
+[2018-03-06 08:31:12] NULL.DEBUG: Request received: {"method":"POST","uri":"http://8eb704f5.ap.ngrok.io/wechat?nonce=566976651&openid=oF_4av4GAHDopFRLZ9aukJI9b9-8&signature=e37b43ee41fd844ca4c5947eecbc4383d2a07c7c&timestamp=1520325074","content-type":"xml","content":"<xml><ToUserName><![CDATA[gh_dbe83f07075e]]></ToUserName>
+<FromUserName><![CDATA[oF_4av4GAHDopFRLZ9aukJI9b9-8]]></FromUserName>
+<CreateTime>1520325074</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[https://h5.ele.me/hongbao/#hardware_id=&is_lucky_group=True&lucky_number=10&track_id=&platform=0&sn=29e9a27ec39e0cfc&theme_id=2233&device_id=]]></Content>
+<MsgId>6529746472546606045</MsgId>
+</xml>"} 
+[2018-03-06 08:31:12] NULL.DEBUG: Server response created: {"content":"<xml><MsgType><![CDATA[text]]></MsgType><Content><![CDATA[errors2领取红包失败]]></Content><ToUserName><![CDATA[oF_4av4GAHDopFRLZ9aukJI9b9-8]]></ToUserName><FromUserName><![CDATA[gh_dbe83f07075e]]></FromUserName><CreateTime>1520325072</CreateTime></xml>"} 
+[2018-03-06 08:32:52] NULL.DEBUG: Request received: {"method":"POST","uri":"http://8eb704f5.ap.ngrok.io/wechat?nonce=224274098&openid=oF_4av4GAHDopFRLZ9aukJI9b9-8&signature=26e3d64dd9168dd9a9f3b4730e00f9e3192abd52&timestamp=1520325174","content-type":"xml","content":"<xml><ToUserName><![CDATA[gh_dbe83f07075e]]></ToUserName>
+<FromUserName><![CDATA[oF_4av4GAHDopFRLZ9aukJI9b9-8]]></FromUserName>
+<CreateTime>1520325174</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[https://h5.ele.me/hongbao/#hardware_id=&is_lucky_group=True&lucky_number=10&track_id=&platform=0&sn=29e9a27ec39e0cfc&theme_id=2233&device_id=]]></Content>
+<MsgId>6529746902043335692</MsgId>
+</xml>"} 
+[2018-03-06 08:32:52] NULL.DEBUG: Server response created: {"content":"<xml><MsgType><![CDATA[text]]></MsgType><Content><![CDATA[errors2领取红包失败]]></Content><ToUserName><![CDATA[oF_4av4GAHDopFRLZ9aukJI9b9-8]]></ToUserName><FromUserName><![CDATA[gh_dbe83f07075e]]></FromUserName><CreateTime>1520325172</CreateTime></xml>"} 
+[2018-03-06 08:34:04] NULL.DEBUG: Request received: {"method":"POST","uri":"http://8eb704f5.ap.ngrok.io/wechat?nonce=772980872&openid=oF_4av4GAHDopFRLZ9aukJI9b9-8&signature=3e3db60e1a0888c1050a103e2128f5f82b86c251&timestamp=1520325245","content-type":"xml","content":"<xml><ToUserName><![CDATA[gh_dbe83f07075e]]></ToUserName>
+<FromUserName><![CDATA[oF_4av4GAHDopFRLZ9aukJI9b9-8]]></FromUserName>
+<CreateTime>1520325245</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[https://h5.ele.me/hongbao/#hardware_id=&is_lucky_group=True&lucky_number=10&track_id=&platform=0&sn=29e9a27ec39e0cfc&theme_id=2233&device_id=]]></Content>
+<MsgId>6529747206986013779</MsgId>
+</xml>"} 
+[2018-03-06 08:34:04] NULL.DEBUG: Server response created: {"content":"<xml><MsgType><![CDATA[text]]></MsgType><Content><![CDATA[errors2领取红包失败]]></Content><ToUserName><![CDATA[oF_4av4GAHDopFRLZ9aukJI9b9-8]]></ToUserName><FromUserName><![CDATA[gh_dbe83f07075e]]></FromUserName><CreateTime>1520325244</CreateTime></xml>"} 
+[2018-03-06 08:35:18] NULL.DEBUG: Request received: {"method":"POST","uri":"http://8eb704f5.ap.ngrok.io/wechat?nonce=534053532&openid=oF_4av4GAHDopFRLZ9aukJI9b9-8&signature=95d1480dbf95bd5c6eb3ec6b8c278b3fb4846a29&timestamp=1520325319","content-type":"xml","content":"<xml><ToUserName><![CDATA[gh_dbe83f07075e]]></ToUserName>
+<FromUserName><![CDATA[oF_4av4GAHDopFRLZ9aukJI9b9-8]]></FromUserName>
+<CreateTime>1520325319</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[https://h5.ele.me/hongbao/#hardware_id=&is_lucky_group=True&lucky_number=10&track_id=&platform=0&sn=29e9a27ec39e0cfc&theme_id=2233&device_id=]]></Content>
+<MsgId>6529747524813593727</MsgId>
+</xml>"} 
+[2018-03-06 08:35:18] NULL.DEBUG: Server response created: {"content":"<xml><MsgType><![CDATA[text]]></MsgType><Content><![CDATA[errors2领取红包失败]]></Content><ToUserName><![CDATA[oF_4av4GAHDopFRLZ9aukJI9b9-8]]></ToUserName><FromUserName><![CDATA[gh_dbe83f07075e]]></FromUserName><CreateTime>1520325318</CreateTime></xml>"} 
+[2018-03-06 08:37:59] NULL.DEBUG: Request received: {"method":"POST","uri":"http://8eb704f5.ap.ngrok.io/wechat?nonce=1702020397&openid=oF_4av4GAHDopFRLZ9aukJI9b9-8&signature=160736fefcc7fde861f1bbea28573e0bd7234ee9&timestamp=1520325480","content-type":"xml","content":"<xml><ToUserName><![CDATA[gh_dbe83f07075e]]></ToUserName>
+<FromUserName><![CDATA[oF_4av4GAHDopFRLZ9aukJI9b9-8]]></FromUserName>
+<CreateTime>1520325479</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[https://h5.ele.me/hongbao/#hardware_id=&is_lucky_group=True&lucky_number=10&track_id=&platform=0&sn=29e9a27ec39e0cfc&theme_id=2233&device_id=]]></Content>
+<MsgId>6529748212008361187</MsgId>
+</xml>"} 
+[2018-03-06 08:37:59] NULL.DEBUG: Server response created: {"content":"<xml><MsgType><![CDATA[text]]></MsgType><Content><![CDATA[errors2领取红包失败]]></Content><ToUserName><![CDATA[oF_4av4GAHDopFRLZ9aukJI9b9-8]]></ToUserName><FromUserName><![CDATA[gh_dbe83f07075e]]></FromUserName><CreateTime>1520325479</CreateTime></xml>"} 
+[2018-03-06 08:38:41] NULL.DEBUG: Request received: {"method":"POST","uri":"http://8eb704f5.ap.ngrok.io/wechat?nonce=1323006075&openid=oF_4av4GAHDopFRLZ9aukJI9b9-8&signature=7849542027b5086d2c8d0a78efad3d44212b8b72&timestamp=1520325522","content-type":"xml","content":"<xml><ToUserName><![CDATA[gh_dbe83f07075e]]></ToUserName>
+<FromUserName><![CDATA[oF_4av4GAHDopFRLZ9aukJI9b9-8]]></FromUserName>
+<CreateTime>1520325522</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[https://h5.ele.me/hongbao/#hardware_id=&is_lucky_group=True&lucky_number=10&track_id=&platform=0&sn=29e9a27ec39e0cfc&theme_id=2233&device_id=]]></Content>
+<MsgId>6529748396691954934</MsgId>
+</xml>"} 
+[2018-03-06 08:38:41] NULL.DEBUG: Server response created: {"content":"<xml><MsgType><![CDATA[text]]></MsgType><Content><![CDATA[errors2领取红包失败]]></Content><ToUserName><![CDATA[oF_4av4GAHDopFRLZ9aukJI9b9-8]]></ToUserName><FromUserName><![CDATA[gh_dbe83f07075e]]></FromUserName><CreateTime>1520325521</CreateTime></xml>"} 
+[2018-03-06 08:39:26] NULL.DEBUG: Request received: {"method":"POST","uri":"http://8eb704f5.ap.ngrok.io/wechat?nonce=657429736&openid=oF_4av4GAHDopFRLZ9aukJI9b9-8&signature=2e06c52f331e6ca77bb76430d17a7101c5fd3b1f&timestamp=1520325567","content-type":"xml","content":"<xml><ToUserName><![CDATA[gh_dbe83f07075e]]></ToUserName>
+<FromUserName><![CDATA[oF_4av4GAHDopFRLZ9aukJI9b9-8]]></FromUserName>
+<CreateTime>1520325567</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[https://h5.ele.me/hongbao/#hardware_id=&is_lucky_group=True&lucky_number=10&track_id=&platform=0&sn=29e9a27ec39e0cfc&theme_id=2233&device_id=]]></Content>
+<MsgId>6529748589965483275</MsgId>
+</xml>"} 
+[2018-03-06 08:39:26] NULL.DEBUG: Server response created: {"content":"<xml><MsgType><![CDATA[text]]></MsgType><Content><![CDATA[errors2领取红包失败]]></Content><ToUserName><![CDATA[oF_4av4GAHDopFRLZ9aukJI9b9-8]]></ToUserName><FromUserName><![CDATA[gh_dbe83f07075e]]></FromUserName><CreateTime>1520325566</CreateTime></xml>"} 
+[2018-03-06 08:48:30] NULL.DEBUG: Request received: {"method":"POST","uri":"http://8eb704f5.ap.ngrok.io/wechat?nonce=1558760928&openid=oF_4av4GAHDopFRLZ9aukJI9b9-8&signature=0cf8d2f0ec241d00a430478b32e247545b4933b1&timestamp=1520326111","content-type":"xml","content":"<xml><ToUserName><![CDATA[gh_dbe83f07075e]]></ToUserName>
+<FromUserName><![CDATA[oF_4av4GAHDopFRLZ9aukJI9b9-8]]></FromUserName>
+<CreateTime>1520326111</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[https://h5.ele.me/hongbao/#hardware_id=&is_lucky_group=True&lucky_number=10&track_id=&platform=0&sn=29e9a27ec39e0cfc&theme_id=2233&device_id=]]></Content>
+<MsgId>6529750926427692627</MsgId>
+</xml>"} 
+[2018-03-06 08:48:30] NULL.DEBUG: Server response created: {"content":"<xml><MsgType><![CDATA[text]]></MsgType><Content><![CDATA[errors2领取红包失败]]></Content><ToUserName><![CDATA[oF_4av4GAHDopFRLZ9aukJI9b9-8]]></ToUserName><FromUserName><![CDATA[gh_dbe83f07075e]]></FromUserName><CreateTime>1520326110</CreateTime></xml>"} 
+[2018-03-06 08:49:12] NULL.DEBUG: Request received: {"method":"POST","uri":"http://8eb704f5.ap.ngrok.io/wechat?nonce=438132537&openid=oF_4av4GAHDopFRLZ9aukJI9b9-8&signature=50761710864c6dcdd434934b142dd7e886b513ec&timestamp=1520326154","content-type":"xml","content":"<xml><ToUserName><![CDATA[gh_dbe83f07075e]]></ToUserName>
+<FromUserName><![CDATA[oF_4av4GAHDopFRLZ9aukJI9b9-8]]></FromUserName>
+<CreateTime>1520326153</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[https://h5.ele.me/hongbao/#hardware_id=&is_lucky_group=True&lucky_number=10&track_id=&platform=0&sn=29e9a27ec39e0cfc&theme_id=2233&device_id=]]></Content>
+<MsgId>6529751106816319081</MsgId>
+</xml>"} 
+[2018-03-06 08:49:12] NULL.DEBUG: Server response created: {"content":"<xml><MsgType><![CDATA[text]]></MsgType><Content><![CDATA[errors2领取红包失败]]></Content><ToUserName><![CDATA[oF_4av4GAHDopFRLZ9aukJI9b9-8]]></ToUserName><FromUserName><![CDATA[gh_dbe83f07075e]]></FromUserName><CreateTime>1520326152</CreateTime></xml>"} 
+[2018-03-06 08:56:21] NULL.DEBUG: Request received: {"method":"POST","uri":"http://8eb704f5.ap.ngrok.io/wechat?nonce=243837381&openid=oF_4av4GAHDopFRLZ9aukJI9b9-8&signature=d9b3acca5d10d8291d24212a68c3acac9c4401c1&timestamp=1520326582","content-type":"xml","content":"<xml><ToUserName><![CDATA[gh_dbe83f07075e]]></ToUserName>
+<FromUserName><![CDATA[oF_4av4GAHDopFRLZ9aukJI9b9-8]]></FromUserName>
+<CreateTime>1520326582</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[https://h5.ele.me/hongbao/#hardware_id=&is_lucky_group=True&lucky_number=10&track_id=&platform=0&sn=29e9a27ec39e0cfc&theme_id=2233&device_id=]]></Content>
+<MsgId>6529752949357289225</MsgId>
+</xml>"} 
+[2018-03-06 08:56:25] NULL.DEBUG: Request received: {"method":"POST","uri":"http://8eb704f5.ap.ngrok.io/wechat?nonce=243837381&openid=oF_4av4GAHDopFRLZ9aukJI9b9-8&signature=d9b3acca5d10d8291d24212a68c3acac9c4401c1&timestamp=1520326582","content-type":"xml","content":"<xml><ToUserName><![CDATA[gh_dbe83f07075e]]></ToUserName>
+<FromUserName><![CDATA[oF_4av4GAHDopFRLZ9aukJI9b9-8]]></FromUserName>
+<CreateTime>1520326582</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[https://h5.ele.me/hongbao/#hardware_id=&is_lucky_group=True&lucky_number=10&track_id=&platform=0&sn=29e9a27ec39e0cfc&theme_id=2233&device_id=]]></Content>
+<MsgId>6529752949357289225</MsgId>
+</xml>"} 
+[2018-03-06 08:56:27] NULL.DEBUG: Request received: {"method":"POST","uri":"http://8eb704f5.ap.ngrok.io/wechat?nonce=243837381&openid=oF_4av4GAHDopFRLZ9aukJI9b9-8&signature=d9b3acca5d10d8291d24212a68c3acac9c4401c1&timestamp=1520326582","content-type":"xml","content":"<xml><ToUserName><![CDATA[gh_dbe83f07075e]]></ToUserName>
+<FromUserName><![CDATA[oF_4av4GAHDopFRLZ9aukJI9b9-8]]></FromUserName>
+<CreateTime>1520326582</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[https://h5.ele.me/hongbao/#hardware_id=&is_lucky_group=True&lucky_number=10&track_id=&platform=0&sn=29e9a27ec39e0cfc&theme_id=2233&device_id=]]></Content>
+<MsgId>6529752949357289225</MsgId>
+</xml>"} 
+[2018-03-06 08:56:50] NULL.DEBUG: Request received: {"method":"POST","uri":"http://8eb704f5.ap.ngrok.io/wechat?nonce=652272184&openid=oF_4av4GAHDopFRLZ9aukJI9b9-8&signature=eb2b7275f9620f13c3672066cdef701d57ce37a7&timestamp=1520326611","content-type":"xml","content":"<xml><ToUserName><![CDATA[gh_dbe83f07075e]]></ToUserName>
+<FromUserName><![CDATA[oF_4av4GAHDopFRLZ9aukJI9b9-8]]></FromUserName>
+<CreateTime>1520326611</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[https://h5.ele.me/hongbao/#hardware_id=&is_lucky_group=True&lucky_number=10&track_id=&platform=0&sn=29e9a27ec39e0cfc&theme_id=2233&device_id=]]></Content>
+<MsgId>6529753073911340816</MsgId>
+</xml>"} 
+[2018-03-06 08:56:52] NULL.DEBUG: Request received: {"method":"POST","uri":"http://8eb704f5.ap.ngrok.io/wechat?nonce=652272184&openid=oF_4av4GAHDopFRLZ9aukJI9b9-8&signature=eb2b7275f9620f13c3672066cdef701d57ce37a7&timestamp=1520326611","content-type":"xml","content":"<xml><ToUserName><![CDATA[gh_dbe83f07075e]]></ToUserName>
+<FromUserName><![CDATA[oF_4av4GAHDopFRLZ9aukJI9b9-8]]></FromUserName>
+<CreateTime>1520326611</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[https://h5.ele.me/hongbao/#hardware_id=&is_lucky_group=True&lucky_number=10&track_id=&platform=0&sn=29e9a27ec39e0cfc&theme_id=2233&device_id=]]></Content>
+<MsgId>6529753073911340816</MsgId>
+</xml>"} 
+[2018-03-06 08:56:55] NULL.DEBUG: Request received: {"method":"POST","uri":"http://8eb704f5.ap.ngrok.io/wechat?nonce=652272184&openid=oF_4av4GAHDopFRLZ9aukJI9b9-8&signature=eb2b7275f9620f13c3672066cdef701d57ce37a7&timestamp=1520326611","content-type":"xml","content":"<xml><ToUserName><![CDATA[gh_dbe83f07075e]]></ToUserName>
+<FromUserName><![CDATA[oF_4av4GAHDopFRLZ9aukJI9b9-8]]></FromUserName>
+<CreateTime>1520326611</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[https://h5.ele.me/hongbao/#hardware_id=&is_lucky_group=True&lucky_number=10&track_id=&platform=0&sn=29e9a27ec39e0cfc&theme_id=2233&device_id=]]></Content>
+<MsgId>6529753073911340816</MsgId>
+</xml>"} 
+[2018-03-06 08:58:09] NULL.DEBUG: Request received: {"method":"POST","uri":"http://8eb704f5.ap.ngrok.io/wechat?nonce=1441587463&openid=oF_4av4GAHDopFRLZ9aukJI9b9-8&signature=8c28c59cb6f7e2620879610efdd5159429ff5b5d&timestamp=1520326690","content-type":"xml","content":"<xml><ToUserName><![CDATA[gh_dbe83f07075e]]></ToUserName>
+<FromUserName><![CDATA[oF_4av4GAHDopFRLZ9aukJI9b9-8]]></FromUserName>
+<CreateTime>1520326690</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[https://h5.ele.me/hongbao/#hardware_id=&is_lucky_group=True&lucky_number=10&track_id=&platform=0&sn=29e9a27ec39e0cfc&theme_id=2233&device_id=]]></Content>
+<MsgId>6529753413213757226</MsgId>
+</xml>"} 
+[2018-03-06 08:58:10] NULL.DEBUG: Request received: {"method":"POST","uri":"http://8eb704f5.ap.ngrok.io/wechat?nonce=1441587463&openid=oF_4av4GAHDopFRLZ9aukJI9b9-8&signature=8c28c59cb6f7e2620879610efdd5159429ff5b5d&timestamp=1520326690","content-type":"xml","content":"<xml><ToUserName><![CDATA[gh_dbe83f07075e]]></ToUserName>
+<FromUserName><![CDATA[oF_4av4GAHDopFRLZ9aukJI9b9-8]]></FromUserName>
+<CreateTime>1520326690</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[https://h5.ele.me/hongbao/#hardware_id=&is_lucky_group=True&lucky_number=10&track_id=&platform=0&sn=29e9a27ec39e0cfc&theme_id=2233&device_id=]]></Content>
+<MsgId>6529753413213757226</MsgId>
+</xml>"} 
+[2018-03-06 08:58:13] NULL.DEBUG: Request received: {"method":"POST","uri":"http://8eb704f5.ap.ngrok.io/wechat?nonce=1441587463&openid=oF_4av4GAHDopFRLZ9aukJI9b9-8&signature=8c28c59cb6f7e2620879610efdd5159429ff5b5d&timestamp=1520326690","content-type":"xml","content":"<xml><ToUserName><![CDATA[gh_dbe83f07075e]]></ToUserName>
+<FromUserName><![CDATA[oF_4av4GAHDopFRLZ9aukJI9b9-8]]></FromUserName>
+<CreateTime>1520326690</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[https://h5.ele.me/hongbao/#hardware_id=&is_lucky_group=True&lucky_number=10&track_id=&platform=0&sn=29e9a27ec39e0cfc&theme_id=2233&device_id=]]></Content>
+<MsgId>6529753413213757226</MsgId>
+</xml>"} 
+[2018-03-06 09:00:24] NULL.DEBUG: Request received: {"method":"POST","uri":"http://8eb704f5.ap.ngrok.io/wechat?nonce=1978708998&openid=oF_4av4GAHDopFRLZ9aukJI9b9-8&signature=daf5eda4010689c00428152f2cdb0f75f64e4160&timestamp=1520326824","content-type":"xml","content":"<xml><ToUserName><![CDATA[gh_dbe83f07075e]]></ToUserName>
+<FromUserName><![CDATA[oF_4av4GAHDopFRLZ9aukJI9b9-8]]></FromUserName>
+<CreateTime>1520326824</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[https://h5.ele.me/hongbao/#hardware_id=&is_lucky_group=True&lucky_number=10&track_id=&platform=0&sn=29e9a27ec39e0cfc&theme_id=2233&device_id=]]></Content>
+<MsgId>6529753988739374943</MsgId>
+</xml>"} 
+[2018-03-06 09:00:27] NULL.DEBUG: Request received: {"method":"POST","uri":"http://8eb704f5.ap.ngrok.io/wechat?nonce=1978708998&openid=oF_4av4GAHDopFRLZ9aukJI9b9-8&signature=daf5eda4010689c00428152f2cdb0f75f64e4160&timestamp=1520326824","content-type":"xml","content":"<xml><ToUserName><![CDATA[gh_dbe83f07075e]]></ToUserName>
+<FromUserName><![CDATA[oF_4av4GAHDopFRLZ9aukJI9b9-8]]></FromUserName>
+<CreateTime>1520326824</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[https://h5.ele.me/hongbao/#hardware_id=&is_lucky_group=True&lucky_number=10&track_id=&platform=0&sn=29e9a27ec39e0cfc&theme_id=2233&device_id=]]></Content>
+<MsgId>6529753988739374943</MsgId>
+</xml>"} 
+[2018-03-06 09:00:28] NULL.DEBUG: Request received: {"method":"POST","uri":"http://8eb704f5.ap.ngrok.io/wechat?nonce=1978708998&openid=oF_4av4GAHDopFRLZ9aukJI9b9-8&signature=daf5eda4010689c00428152f2cdb0f75f64e4160&timestamp=1520326824","content-type":"xml","content":"<xml><ToUserName><![CDATA[gh_dbe83f07075e]]></ToUserName>
+<FromUserName><![CDATA[oF_4av4GAHDopFRLZ9aukJI9b9-8]]></FromUserName>
+<CreateTime>1520326824</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[https://h5.ele.me/hongbao/#hardware_id=&is_lucky_group=True&lucky_number=10&track_id=&platform=0&sn=29e9a27ec39e0cfc&theme_id=2233&device_id=]]></Content>
+<MsgId>6529753988739374943</MsgId>
+</xml>"} 
+[2018-03-06 09:00:41] NULL.DEBUG: Request received: {"method":"POST","uri":"http://8eb704f5.ap.ngrok.io/wechat?nonce=2079377993&openid=oF_4av4GAHDopFRLZ9aukJI9b9-8&signature=5d727c2a86e92c1fb120b2b25f20cc9116f7b2ee&timestamp=1520326842","content-type":"xml","content":"<xml><ToUserName><![CDATA[gh_dbe83f07075e]]></ToUserName>
+<FromUserName><![CDATA[oF_4av4GAHDopFRLZ9aukJI9b9-8]]></FromUserName>
+<CreateTime>1520326842</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[https://h5.ele.me/hongbao/#hardware_id=&is_lucky_group=True&lucky_number=10&track_id=&platform=0&sn=29e9a27ec39e0cfc&theme_id=2233&device_id=]]></Content>
+<MsgId>6529754066048786283</MsgId>
+</xml>"} 
+[2018-03-06 09:00:44] NULL.DEBUG: Request received: {"method":"POST","uri":"http://8eb704f5.ap.ngrok.io/wechat?nonce=2079377993&openid=oF_4av4GAHDopFRLZ9aukJI9b9-8&signature=5d727c2a86e92c1fb120b2b25f20cc9116f7b2ee&timestamp=1520326842","content-type":"xml","content":"<xml><ToUserName><![CDATA[gh_dbe83f07075e]]></ToUserName>
+<FromUserName><![CDATA[oF_4av4GAHDopFRLZ9aukJI9b9-8]]></FromUserName>
+<CreateTime>1520326842</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[https://h5.ele.me/hongbao/#hardware_id=&is_lucky_group=True&lucky_number=10&track_id=&platform=0&sn=29e9a27ec39e0cfc&theme_id=2233&device_id=]]></Content>
+<MsgId>6529754066048786283</MsgId>
+</xml>"} 
+[2018-03-06 09:00:46] NULL.DEBUG: Request received: {"method":"POST","uri":"http://8eb704f5.ap.ngrok.io/wechat?nonce=2079377993&openid=oF_4av4GAHDopFRLZ9aukJI9b9-8&signature=5d727c2a86e92c1fb120b2b25f20cc9116f7b2ee&timestamp=1520326842","content-type":"xml","content":"<xml><ToUserName><![CDATA[gh_dbe83f07075e]]></ToUserName>
+<FromUserName><![CDATA[oF_4av4GAHDopFRLZ9aukJI9b9-8]]></FromUserName>
+<CreateTime>1520326842</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[https://h5.ele.me/hongbao/#hardware_id=&is_lucky_group=True&lucky_number=10&track_id=&platform=0&sn=29e9a27ec39e0cfc&theme_id=2233&device_id=]]></Content>
+<MsgId>6529754066048786283</MsgId>
+</xml>"} 
+[2018-03-06 09:01:35] NULL.DEBUG: Request received: {"method":"POST","uri":"http://8eb704f5.ap.ngrok.io/wechat?nonce=1323846448&openid=oF_4av4GAHDopFRLZ9aukJI9b9-8&signature=182b5750c0f2a359aefa40f80b4e35e03cdb0714&timestamp=1520326896","content-type":"xml","content":"<xml><ToUserName><![CDATA[gh_dbe83f07075e]]></ToUserName>
+<FromUserName><![CDATA[oF_4av4GAHDopFRLZ9aukJI9b9-8]]></FromUserName>
+<CreateTime>1520326896</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[https://h5.ele.me/hongbao/#hardware_id=&is_lucky_group=True&lucky_number=10&track_id=&platform=0&sn=29e9a27ec39e0cfc&theme_id=2233&device_id=]]></Content>
+<MsgId>6529754297977020287</MsgId>
+</xml>"} 
+[2018-03-06 09:01:37] NULL.DEBUG: Request received: {"method":"POST","uri":"http://8eb704f5.ap.ngrok.io/wechat?nonce=1323846448&openid=oF_4av4GAHDopFRLZ9aukJI9b9-8&signature=182b5750c0f2a359aefa40f80b4e35e03cdb0714&timestamp=1520326896","content-type":"xml","content":"<xml><ToUserName><![CDATA[gh_dbe83f07075e]]></ToUserName>
+<FromUserName><![CDATA[oF_4av4GAHDopFRLZ9aukJI9b9-8]]></FromUserName>
+<CreateTime>1520326896</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[https://h5.ele.me/hongbao/#hardware_id=&is_lucky_group=True&lucky_number=10&track_id=&platform=0&sn=29e9a27ec39e0cfc&theme_id=2233&device_id=]]></Content>
+<MsgId>6529754297977020287</MsgId>
+</xml>"} 
+[2018-03-06 09:01:39] NULL.DEBUG: Request received: {"method":"POST","uri":"http://8eb704f5.ap.ngrok.io/wechat?nonce=1323846448&openid=oF_4av4GAHDopFRLZ9aukJI9b9-8&signature=182b5750c0f2a359aefa40f80b4e35e03cdb0714&timestamp=1520326896","content-type":"xml","content":"<xml><ToUserName><![CDATA[gh_dbe83f07075e]]></ToUserName>
+<FromUserName><![CDATA[oF_4av4GAHDopFRLZ9aukJI9b9-8]]></FromUserName>
+<CreateTime>1520326896</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[https://h5.ele.me/hongbao/#hardware_id=&is_lucky_group=True&lucky_number=10&track_id=&platform=0&sn=29e9a27ec39e0cfc&theme_id=2233&device_id=]]></Content>
+<MsgId>6529754297977020287</MsgId>
+</xml>"} 
+[2018-03-06 09:04:18] NULL.DEBUG: Request received: {"method":"POST","uri":"http://8eb704f5.ap.ngrok.io/wechat?nonce=662837500&openid=oF_4av4GAHDopFRLZ9aukJI9b9-8&signature=9efe0611005e4c14fa06a74a6855b3b9ae9b6976&timestamp=1520327059","content-type":"xml","content":"<xml><ToUserName><![CDATA[gh_dbe83f07075e]]></ToUserName>
+<FromUserName><![CDATA[oF_4av4GAHDopFRLZ9aukJI9b9-8]]></FromUserName>
+<CreateTime>1520327059</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[https://h5.ele.me/hongbao/#hardware_id=&is_lucky_group=True&lucky_number=10&track_id=&platform=0&sn=29e9a27ec39e0cfc&theme_id=2233&device_id=]]></Content>
+<MsgId>6529754998056689586</MsgId>
+</xml>"} 
+[2018-03-06 09:04:18] NULL.DEBUG: Server response created: {"content":"<xml><MsgType><![CDATA[text]]></MsgType><Content><![CDATA[errors2领取红包失败]]></Content><ToUserName><![CDATA[oF_4av4GAHDopFRLZ9aukJI9b9-8]]></ToUserName><FromUserName><![CDATA[gh_dbe83f07075e]]></FromUserName><CreateTime>1520327058</CreateTime></xml>"} 
+[2018-03-06 09:04:31] NULL.DEBUG: Request received: {"method":"POST","uri":"http://8eb704f5.ap.ngrok.io/wechat?nonce=932398904&openid=oF_4av4GAHDopFRLZ9aukJI9b9-8&signature=076fdf3515ab3c2eb6e09e03e669d009678a4141&timestamp=1520327073","content-type":"xml","content":"<xml><ToUserName><![CDATA[gh_dbe83f07075e]]></ToUserName>
+<FromUserName><![CDATA[oF_4av4GAHDopFRLZ9aukJI9b9-8]]></FromUserName>
+<CreateTime>1520327073</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[https://h5.ele.me/hongbao/#hardware_id=&is_lucky_group=True&lucky_number=10&track_id=&platform=0&sn=29e9a27ec39e0cfc&theme_id=2233&device_id=]]></Content>
+<MsgId>6529755058186231734</MsgId>
+</xml>"} 
+[2018-03-06 09:04:31] NULL.DEBUG: Server response created: {"content":"<xml><MsgType><![CDATA[text]]></MsgType><Content><![CDATA[errors2领取红包失败]]></Content><ToUserName><![CDATA[oF_4av4GAHDopFRLZ9aukJI9b9-8]]></ToUserName><FromUserName><![CDATA[gh_dbe83f07075e]]></FromUserName><CreateTime>1520327071</CreateTime></xml>"} 
+[2018-03-06 09:05:07] NULL.DEBUG: Request received: {"method":"POST","uri":"http://8eb704f5.ap.ngrok.io/wechat?nonce=1313360289&openid=oF_4av4GAHDopFRLZ9aukJI9b9-8&signature=1d1900310d7cf0aad4c8f5720d408b39d74f5e89&timestamp=1520327108","content-type":"xml","content":"<xml><ToUserName><![CDATA[gh_dbe83f07075e]]></ToUserName>
+<FromUserName><![CDATA[oF_4av4GAHDopFRLZ9aukJI9b9-8]]></FromUserName>
+<CreateTime>1520327108</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[https://h5.ele.me/hongbao/#hardware_id=&is_lucky_group=True&lucky_number=10&track_id=&platform=0&sn=29e9a27ec39e0cfc&theme_id=2233&device_id=]]></Content>
+<MsgId>6529755208510087110</MsgId>
+</xml>"} 
+[2018-03-06 09:05:09] NULL.DEBUG: Request received: {"method":"POST","uri":"http://8eb704f5.ap.ngrok.io/wechat?nonce=1313360289&openid=oF_4av4GAHDopFRLZ9aukJI9b9-8&signature=1d1900310d7cf0aad4c8f5720d408b39d74f5e89&timestamp=1520327108","content-type":"xml","content":"<xml><ToUserName><![CDATA[gh_dbe83f07075e]]></ToUserName>
+<FromUserName><![CDATA[oF_4av4GAHDopFRLZ9aukJI9b9-8]]></FromUserName>
+<CreateTime>1520327108</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[https://h5.ele.me/hongbao/#hardware_id=&is_lucky_group=True&lucky_number=10&track_id=&platform=0&sn=29e9a27ec39e0cfc&theme_id=2233&device_id=]]></Content>
+<MsgId>6529755208510087110</MsgId>
+</xml>"} 
+[2018-03-06 09:05:11] NULL.DEBUG: Request received: {"method":"POST","uri":"http://8eb704f5.ap.ngrok.io/wechat?nonce=1313360289&openid=oF_4av4GAHDopFRLZ9aukJI9b9-8&signature=1d1900310d7cf0aad4c8f5720d408b39d74f5e89&timestamp=1520327108","content-type":"xml","content":"<xml><ToUserName><![CDATA[gh_dbe83f07075e]]></ToUserName>
+<FromUserName><![CDATA[oF_4av4GAHDopFRLZ9aukJI9b9-8]]></FromUserName>
+<CreateTime>1520327108</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[https://h5.ele.me/hongbao/#hardware_id=&is_lucky_group=True&lucky_number=10&track_id=&platform=0&sn=29e9a27ec39e0cfc&theme_id=2233&device_id=]]></Content>
+<MsgId>6529755208510087110</MsgId>
+</xml>"} 
+[2018-03-06 09:06:53] NULL.DEBUG: Request received: {"method":"POST","uri":"http://8eb704f5.ap.ngrok.io/wechat?nonce=1799939535&openid=oF_4av4GAHDopFRLZ9aukJI9b9-8&signature=dff59025d8d8e27a0ccb953641e048123679bcc2&timestamp=1520327215","content-type":"xml","content":"<xml><ToUserName><![CDATA[gh_dbe83f07075e]]></ToUserName>
+<FromUserName><![CDATA[oF_4av4GAHDopFRLZ9aukJI9b9-8]]></FromUserName>
+<CreateTime>1520327215</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[https://h5.ele.me/hongbao/#hardware_id=&is_lucky_group=True&lucky_number=10&track_id=&platform=0&sn=29e9a27ec39e0cfc&theme_id=2233&device_id=]]></Content>
+<MsgId>6529755668071587821</MsgId>
+</xml>"} 
+[2018-03-06 09:06:55] NULL.DEBUG: Request received: {"method":"POST","uri":"http://8eb704f5.ap.ngrok.io/wechat?nonce=1799939535&openid=oF_4av4GAHDopFRLZ9aukJI9b9-8&signature=dff59025d8d8e27a0ccb953641e048123679bcc2&timestamp=1520327215","content-type":"xml","content":"<xml><ToUserName><![CDATA[gh_dbe83f07075e]]></ToUserName>
+<FromUserName><![CDATA[oF_4av4GAHDopFRLZ9aukJI9b9-8]]></FromUserName>
+<CreateTime>1520327215</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[https://h5.ele.me/hongbao/#hardware_id=&is_lucky_group=True&lucky_number=10&track_id=&platform=0&sn=29e9a27ec39e0cfc&theme_id=2233&device_id=]]></Content>
+<MsgId>6529755668071587821</MsgId>
+</xml>"} 
+[2018-03-06 09:06:57] NULL.DEBUG: Request received: {"method":"POST","uri":"http://8eb704f5.ap.ngrok.io/wechat?nonce=1799939535&openid=oF_4av4GAHDopFRLZ9aukJI9b9-8&signature=dff59025d8d8e27a0ccb953641e048123679bcc2&timestamp=1520327215","content-type":"xml","content":"<xml><ToUserName><![CDATA[gh_dbe83f07075e]]></ToUserName>
+<FromUserName><![CDATA[oF_4av4GAHDopFRLZ9aukJI9b9-8]]></FromUserName>
+<CreateTime>1520327215</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[https://h5.ele.me/hongbao/#hardware_id=&is_lucky_group=True&lucky_number=10&track_id=&platform=0&sn=29e9a27ec39e0cfc&theme_id=2233&device_id=]]></Content>
+<MsgId>6529755668071587821</MsgId>
+</xml>"} 
+[2018-03-06 09:07:35] NULL.DEBUG: Request received: {"method":"POST","uri":"http://8eb704f5.ap.ngrok.io/wechat?nonce=1542192107&openid=oF_4av4GAHDopFRLZ9aukJI9b9-8&signature=a3bb860180d0f8676bc9f163a5378865404fb74d&timestamp=1520327256","content-type":"xml","content":"<xml><ToUserName><![CDATA[gh_dbe83f07075e]]></ToUserName>
+<FromUserName><![CDATA[oF_4av4GAHDopFRLZ9aukJI9b9-8]]></FromUserName>
+<CreateTime>1520327255</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[https://h5.ele.me/hongbao/#hardware_id=&is_lucky_group=True&lucky_number=10&track_id=&platform=0&sn=29e9a27ec39e0cfc&theme_id=2233&device_id=]]></Content>
+<MsgId>6529755839870279671</MsgId>
+</xml>"} 
+[2018-03-06 09:07:35] NULL.DEBUG: Server response created: {"content":"<xml><MsgType><![CDATA[text]]></MsgType><Content><![CDATA[errors21231231231]]></Content><ToUserName><![CDATA[oF_4av4GAHDopFRLZ9aukJI9b9-8]]></ToUserName><FromUserName><![CDATA[gh_dbe83f07075e]]></FromUserName><CreateTime>1520327255</CreateTime></xml>"} 
+[2018-03-06 09:08:03] NULL.DEBUG: Request received: {"method":"POST","uri":"http://8eb704f5.ap.ngrok.io/wechat?nonce=1167365615&openid=oF_4av4GAHDopFRLZ9aukJI9b9-8&signature=2041d4ddc6eed6edc9744c734b2a47eee9779733&timestamp=1520327284","content-type":"xml","content":"<xml><ToUserName><![CDATA[gh_dbe83f07075e]]></ToUserName>
+<FromUserName><![CDATA[oF_4av4GAHDopFRLZ9aukJI9b9-8]]></FromUserName>
+<CreateTime>1520327284</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[https://h5.ele.me/hongbao/#hardware_id=&is_lucky_group=True&lucky_number=10&track_id=&platform=0&sn=29e9a27ec39e0cfc&theme_id=2233&device_id=]]></Content>
+<MsgId>6529755964424331268</MsgId>
+</xml>"} 
+[2018-03-06 09:08:03] NULL.DEBUG: Server response created: {"content":"<xml><MsgType><![CDATA[text]]></MsgType><Content><![CDATA[errors2领取红包失败]]></Content><ToUserName><![CDATA[oF_4av4GAHDopFRLZ9aukJI9b9-8]]></ToUserName><FromUserName><![CDATA[gh_dbe83f07075e]]></FromUserName><CreateTime>1520327283</CreateTime></xml>"} 
+[2018-03-06 09:09:27] NULL.DEBUG: Request received: {"method":"POST","uri":"http://8eb704f5.ap.ngrok.io/wechat?nonce=188373482&openid=oF_4av4GAHDopFRLZ9aukJI9b9-8&signature=bfb971cf59cbc0322a7841333173ad339d292488&timestamp=1520327368","content-type":"xml","content":"<xml><ToUserName><![CDATA[gh_dbe83f07075e]]></ToUserName>
+<FromUserName><![CDATA[oF_4av4GAHDopFRLZ9aukJI9b9-8]]></FromUserName>
+<CreateTime>1520327368</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[https://h5.ele.me/hongbao/#hardware_id=&is_lucky_group=True&lucky_number=10&track_id=&platform=0&sn=29e9a27ec39e0cfc&theme_id=2233&device_id=]]></Content>
+<MsgId>6529756325201584165</MsgId>
+</xml>"} 
+[2018-03-06 09:09:28] NULL.DEBUG: Server response created: {"content":"<xml><MsgType><![CDATA[text]]></MsgType><Content><![CDATA[errors2Array
+(
+    [message] => 操作太频繁
+    [name] => TOO_BUSY
+)
+]]></Content><ToUserName><![CDATA[oF_4av4GAHDopFRLZ9aukJI9b9-8]]></ToUserName><FromUserName><![CDATA[gh_dbe83f07075e]]></FromUserName><CreateTime>1520327368</CreateTime></xml>"} 
+[2018-03-06 09:10:20] NULL.DEBUG: Request received: {"method":"POST","uri":"http://8eb704f5.ap.ngrok.io/wechat?nonce=330295020&openid=oF_4av4GAHDopFRLZ9aukJI9b9-8&signature=cbd5ea4f7518758556f7b12f9c8fe9e78a05afe2&timestamp=1520327422","content-type":"xml","content":"<xml><ToUserName><![CDATA[gh_dbe83f07075e]]></ToUserName>
+<FromUserName><![CDATA[oF_4av4GAHDopFRLZ9aukJI9b9-8]]></FromUserName>
+<CreateTime>1520327421</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[https://h5.ele.me/hongbao/#hardware_id=&is_lucky_group=True&lucky_number=10&track_id=&platform=0&sn=29e9a27ec39e0cfc&theme_id=2233&device_id=]]></Content>
+<MsgId>6529756552834850882</MsgId>
+</xml>"} 
+[2018-03-06 09:10:21] NULL.DEBUG: Server response created: {"content":"<xml><MsgType><![CDATA[text]]></MsgType><Content><![CDATA[errors2Array
+(
+    [message] => 操作太频繁
+    [name] => TOO_BUSY
+)
+]]></Content><ToUserName><![CDATA[oF_4av4GAHDopFRLZ9aukJI9b9-8]]></ToUserName><FromUserName><![CDATA[gh_dbe83f07075e]]></FromUserName><CreateTime>1520327421</CreateTime></xml>"} 
+[2018-03-06 09:13:04] NULL.DEBUG: Request received: {"method":"POST","uri":"http://8eb704f5.ap.ngrok.io/wechat?nonce=463276611&openid=oF_4av4GAHDopFRLZ9aukJI9b9-8&signature=87edf15c5177dbb1553c2d1a4fe0e52c7e0107f9&timestamp=1520327586","content-type":"xml","content":"<xml><ToUserName><![CDATA[gh_dbe83f07075e]]></ToUserName>
+<FromUserName><![CDATA[oF_4av4GAHDopFRLZ9aukJI9b9-8]]></FromUserName>
+<CreateTime>1520327586</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[https://h5.ele.me/hongbao/#hardware_id=&is_lucky_group=True&lucky_number=10&track_id=&platform=0&sn=29e9a27ec39e0cfc&theme_id=2233&device_id=]]></Content>
+<MsgId>6529757261504454801</MsgId>
+</xml>"} 
+[2018-03-06 09:13:05] NULL.DEBUG: Server response created: {"content":"<xml><MsgType><![CDATA[text]]></MsgType><Content><![CDATA[errors2Array
+(
+    [message] => 操作太频繁
+    [name] => TOO_BUSY
+)
+]]></Content><ToUserName><![CDATA[oF_4av4GAHDopFRLZ9aukJI9b9-8]]></ToUserName><FromUserName><![CDATA[gh_dbe83f07075e]]></FromUserName><CreateTime>1520327585</CreateTime></xml>"} 
+[2018-03-06 09:14:13] NULL.DEBUG: Request received: {"method":"POST","uri":"http://8eb704f5.ap.ngrok.io/wechat?nonce=978432588&openid=oF_4av4GAHDopFRLZ9aukJI9b9-8&signature=740d420448fe8d6d1ab2fb7ff74cf1fc3191483e&timestamp=1520327655","content-type":"xml","content":"<xml><ToUserName><![CDATA[gh_dbe83f07075e]]></ToUserName>
+<FromUserName><![CDATA[oF_4av4GAHDopFRLZ9aukJI9b9-8]]></FromUserName>
+<CreateTime>1520327654</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[https://h5.ele.me/hongbao/#hardware_id=&is_lucky_group=True&lucky_number=10&track_id=&platform=0&sn=29e9a27ec39e0cfc&theme_id=2233&device_id=]]></Content>
+<MsgId>6529757553562230957</MsgId>
+</xml>"} 
+[2018-03-06 09:14:14] NULL.DEBUG: Server response created: {"content":"<xml><MsgType><![CDATA[text]]></MsgType><Content><![CDATA[errors2Array
+(
+    [message] => 操作太频繁
+    [name] => TOO_BUSY
+)
+]]></Content><ToUserName><![CDATA[oF_4av4GAHDopFRLZ9aukJI9b9-8]]></ToUserName><FromUserName><![CDATA[gh_dbe83f07075e]]></FromUserName><CreateTime>1520327654</CreateTime></xml>"} 
+[2018-03-06 10:22:37] NULL.DEBUG: Request received: {"method":"POST","uri":"http://0a74c531.ngrok.io/wechat?nonce=841248945&openid=oF_4av4GAHDopFRLZ9aukJI9b9-8&signature=02d3bddfd4071c46afecc6d658a45fd09cbb090d&timestamp=1520331758","content-type":"xml","content":"<xml><ToUserName><![CDATA[gh_dbe83f07075e]]></ToUserName>
+<FromUserName><![CDATA[oF_4av4GAHDopFRLZ9aukJI9b9-8]]></FromUserName>
+<CreateTime>1520331758</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[https://h5.ele.me/hongbao/#hardware_id=&is_lucky_group=True&lucky_number=8&track_id=&platform=0&sn=29e9d7c5f59e5c55&theme_id=2257&device_id=]]></Content>
+<MsgId>6529775180108015651</MsgId>
+</xml>"} 
+[2018-03-06 10:22:38] NULL.DEBUG: Server response created: {"content":"<xml><MsgType><![CDATA[text]]></MsgType><Content><![CDATA[最佳手气: 132****9598
+红包金额: 5.6]]></Content><ToUserName><![CDATA[oF_4av4GAHDopFRLZ9aukJI9b9-8]]></ToUserName><FromUserName><![CDATA[gh_dbe83f07075e]]></FromUserName><CreateTime>1520331758</CreateTime></xml>"} 
+[2018-03-06 10:24:12] NULL.DEBUG: Request received: {"method":"POST","uri":"http://0a74c531.ngrok.io/wechat?nonce=1383078761&openid=oF_4av4GAHDopFRLZ9aukJI9b9-8&signature=f8ca6f43de1f76bd8de0997473a5c75495f71f77&timestamp=1520331853","content-type":"xml","content":"<xml><ToUserName><![CDATA[gh_dbe83f07075e]]></ToUserName>
+<FromUserName><![CDATA[oF_4av4GAHDopFRLZ9aukJI9b9-8]]></FromUserName>
+<CreateTime>1520331853</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[https://h5.ele.me/hongbao/#hardware_id=&is_lucky_group=True&lucky_number=5&track_id=&platform=0&sn=29e9d96a2aa84041&theme_id=2257&device_id=]]></Content>
+<MsgId>6529775588129908823</MsgId>
+</xml>"} 
+[2018-03-06 10:24:13] NULL.DEBUG: Server response created: {"content":"<xml><MsgType><![CDATA[text]]></MsgType><Content><![CDATA[最佳手气: 年轻的颾年
+红包金额: 5.6]]></Content><ToUserName><![CDATA[oF_4av4GAHDopFRLZ9aukJI9b9-8]]></ToUserName><FromUserName><![CDATA[gh_dbe83f07075e]]></FromUserName><CreateTime>1520331853</CreateTime></xml>"} 
+[2018-03-06 11:19:32] NULL.DEBUG: Request received: {"method":"POST","uri":"http://0a74c531.ngrok.io/wechat?nonce=1546688978&openid=oF_4av4GAHDopFRLZ9aukJI9b9-8&signature=0936d02c1d1f5833b19a47ef4ecf23160cd939c1&timestamp=1520335173","content-type":"xml","content":"<xml><ToUserName><![CDATA[gh_dbe83f07075e]]></ToUserName>
+<FromUserName><![CDATA[oF_4av4GAHDopFRLZ9aukJI9b9-8]]></FromUserName>
+<CreateTime>1520335172</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[https://h5.ele.me/hongbao/#hardware_id=&is_lucky_group=True&lucky_number=7&track_id=&platform=0&sn=29e9daa40ca920d0&theme_id=2257&device_id=]]></Content>
+<MsgId>6529789843126365733</MsgId>
+</xml>"} 
+[2018-03-06 11:19:32] NULL.DEBUG: Server response created: {"content":"<xml><MsgType><![CDATA[text]]></MsgType><Content><![CDATA[最佳手气: 叶爽
+红包金额: 5.6]]></Content><ToUserName><![CDATA[oF_4av4GAHDopFRLZ9aukJI9b9-8]]></ToUserName><FromUserName><![CDATA[gh_dbe83f07075e]]></FromUserName><CreateTime>1520335172</CreateTime></xml>"} 
+[2018-03-06 11:38:38] NULL.DEBUG: Request received: {"method":"POST","uri":"http://0a74c531.ngrok.io/wechat?nonce=1480465393&openid=oF_4av-aVoc9FTu2mDu50VTwB8xg&signature=515ef0b246f0fcaf56275b12ab91e7483afcb362&timestamp=1520336318","content-type":"xml","content":"<xml><ToUserName><![CDATA[gh_dbe83f07075e]]></ToUserName>
+<FromUserName><![CDATA[oF_4av-aVoc9FTu2mDu50VTwB8xg]]></FromUserName>
+<CreateTime>1520336318</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[subscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>"} 
+[2018-03-06 11:38:38] NULL.DEBUG: Server response created: {"content":"<xml><MsgType><![CDATA[text]]></MsgType><Content><![CDATA[不符合要求]]></Content><ToUserName><![CDATA[oF_4av-aVoc9FTu2mDu50VTwB8xg]]></ToUserName><FromUserName><![CDATA[gh_dbe83f07075e]]></FromUserName><CreateTime>1520336318</CreateTime></xml>"} 
+[2018-03-06 11:40:27] NULL.DEBUG: Request received: {"method":"POST","uri":"http://0a74c531.ngrok.io/wechat?nonce=1918828789&openid=oF_4av4GAHDopFRLZ9aukJI9b9-8&signature=0d2746b8f48967e9f082d3b017911905a137724b&timestamp=1520336428","content-type":"xml","content":"<xml><ToUserName><![CDATA[gh_dbe83f07075e]]></ToUserName>
+<FromUserName><![CDATA[oF_4av4GAHDopFRLZ9aukJI9b9-8]]></FromUserName>
+<CreateTime>1520336428</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[3666]]></Content>
+<MsgId>6529795237605289916</MsgId>
+</xml>"} 
+[2018-03-06 11:40:27] NULL.DEBUG: Server response created: {"content":"<xml><MsgType><![CDATA[text]]></MsgType><Content><![CDATA[******使用说明******
+                首次使用需绑定手机号码
+                直接回复手机号即可。
+                领取红包，直接回复红包地址即可]]></Content><ToUserName><![CDATA[oF_4av4GAHDopFRLZ9aukJI9b9-8]]></ToUserName><FromUserName><![CDATA[gh_dbe83f07075e]]></FromUserName><CreateTime>1520336427</CreateTime></xml>"} 
+[2018-03-06 11:40:48] NULL.DEBUG: Request received: {"method":"POST","uri":"http://0a74c531.ngrok.io/wechat?nonce=472287210&openid=oF_4av4GAHDopFRLZ9aukJI9b9-8&signature=a3aa7d9c2c91636dd7ec0da999fe9eaa8e41d1c6&timestamp=1520336449","content-type":"xml","content":"<xml><ToUserName><![CDATA[gh_dbe83f07075e]]></ToUserName>
+<FromUserName><![CDATA[oF_4av4GAHDopFRLZ9aukJI9b9-8]]></FromUserName>
+<CreateTime>1520336449</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[66666]]></Content>
+<MsgId>6529795327799603138</MsgId>
+</xml>"} 
+[2018-03-06 11:40:48] NULL.DEBUG: Server response created: {"content":"<xml><MsgType><![CDATA[text]]></MsgType><Content><![CDATA[******使用说明******
+首次使用需绑定手机号码
+直接回复手机号即可。
+领取红包，直接回复红包地址即可]]></Content><ToUserName><![CDATA[oF_4av4GAHDopFRLZ9aukJI9b9-8]]></ToUserName><FromUserName><![CDATA[gh_dbe83f07075e]]></FromUserName><CreateTime>1520336448</CreateTime></xml>"} 
+[2018-03-06 11:43:29] NULL.DEBUG: Request received: {"method":"POST","uri":"http://0a74c531.ngrok.io/wechat?nonce=1526853147&openid=oF_4av4GAHDopFRLZ9aukJI9b9-8&signature=28792621ec25241c3eca443117c955bf758987f0&timestamp=1520336610","content-type":"xml","content":"<xml><ToUserName><![CDATA[gh_dbe83f07075e]]></ToUserName>
+<FromUserName><![CDATA[oF_4av4GAHDopFRLZ9aukJI9b9-8]]></FromUserName>
+<CreateTime>1520336610</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[https://h5.ele.me/hongbao/#hardware_id=&is_lucky_group=True&lucky_number=9&track_id=&platform=0&sn=10ddaf75be2bc4b7&theme_id=1905&device_id=]]></Content>
+<MsgId>6529796019289337834</MsgId>
+</xml>"} 
+[2018-03-06 11:43:34] NULL.DEBUG: Server response created: {"content":"<xml><MsgType><![CDATA[text]]></MsgType><Content><![CDATA[最佳手气: 185****9039
+红包金额: 10]]></Content><ToUserName><![CDATA[oF_4av4GAHDopFRLZ9aukJI9b9-8]]></ToUserName><FromUserName><![CDATA[gh_dbe83f07075e]]></FromUserName><CreateTime>1520336614</CreateTime></xml>"} 
+[2018-03-06 11:43:35] NULL.DEBUG: Request received: {"method":"POST","uri":"http://0a74c531.ngrok.io/wechat?nonce=1526853147&openid=oF_4av4GAHDopFRLZ9aukJI9b9-8&signature=28792621ec25241c3eca443117c955bf758987f0&timestamp=1520336610","content-type":"xml","content":"<xml><ToUserName><![CDATA[gh_dbe83f07075e]]></ToUserName>
+<FromUserName><![CDATA[oF_4av4GAHDopFRLZ9aukJI9b9-8]]></FromUserName>
+<CreateTime>1520336610</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[https://h5.ele.me/hongbao/#hardware_id=&is_lucky_group=True&lucky_number=9&track_id=&platform=0&sn=10ddaf75be2bc4b7&theme_id=1905&device_id=]]></Content>
+<MsgId>6529796019289337834</MsgId>
+</xml>"} 
+[2018-03-06 11:43:35] NULL.DEBUG: Server response created: {"content":"<xml><MsgType><![CDATA[text]]></MsgType><Content><![CDATA[最佳手气: 185****9039
+红包金额: 10]]></Content><ToUserName><![CDATA[oF_4av4GAHDopFRLZ9aukJI9b9-8]]></ToUserName><FromUserName><![CDATA[gh_dbe83f07075e]]></FromUserName><CreateTime>1520336615</CreateTime></xml>"} 
